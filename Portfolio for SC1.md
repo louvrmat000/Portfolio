@@ -1,4 +1,4 @@
-# This Will be my Portfolio for CS1 #
+# This will be my Portfolio for CS1 #
 
 ## Entry 1, The Creation ##
 
