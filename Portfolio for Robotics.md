@@ -1,4 +1,4 @@
-# This Will be my Portfolio for Robotics #
+# This will be my Portfolio for Robotics #
 
 ## Entry 1, The Creation ##
 
