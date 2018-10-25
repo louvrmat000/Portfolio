@@ -1,6 +1,6 @@
 # My personal project about trees #
 
-## The oxygen of trees and how much is it?##
+## The oxygen of trees and how much is it? ##
 
 ### Entry 1 October 25, 2018 ###
 
