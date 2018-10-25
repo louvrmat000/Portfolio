@@ -2,10 +2,13 @@
 
 ## The oxygen of trees and how much is it? ##
 
-### Entry 1 October 25, 2018 ###
+### Entry 1, October 25, 2018 ###
 
 how much oxygen do trees produce? 
 
 On average a tree produces 260 pounds of oxygen each year!
 
 https://www.emaze.com/@AOQFLWIQ
+
+### Entry 2, ###
+
