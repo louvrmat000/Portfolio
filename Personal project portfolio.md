@@ -10,7 +10,7 @@ I WILL be ignoring other photosynthetic plants.
 
 I WILL not be subtracting oxygen for plants or vegetation as they produce their own oxygen (exept trees).
 
-I WILL not be counting sea creatures (including crabs, lobsters etc.) (they have algue).
+I WILL not be counting sea creatures (including crabs, lobsters etc.) (they have algae).
 
 My goal is to get a pretty presise answer and then compare it to the number of trees currently.
 
