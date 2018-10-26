@@ -24,7 +24,7 @@ First up determining how much oxygen trees produce.
 
 On average a tree produces 260 pounds of oxygen each year!
 
-[The link for this info] (https://www.emaze.com/@AOQFLWIQ)
+[The link for this info](https://www.emaze.com/@AOQFLWIQ)
 
 ### Entry 3, October 26, 2018 ###
 
@@ -34,4 +34,4 @@ Second, the most important animal, humans, how much oxygen do they breathe?
 
 
 
-[The link for this info] (https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
+[The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
