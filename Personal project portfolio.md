@@ -10,7 +10,9 @@ I WILL be ignoring other photosynthetic plants.
 
 I WILL not be subtracting oxygen for plants or vegetation as they produce their own oxygen (exept trees).
 
-I WILL not be counting sea creatures (including crabs, lobsters etc.) (they have algae).
+I WILL not be counting sea creatures (including crabs, lobsters, aligators, etc.) (they have algae).
+
+I WILL not be counting artic animals either.
 
 My goal is to get a pretty presise answer and then compare it to the number of trees currently.
 
@@ -35,3 +37,20 @@ Second, the most important animal, humans, how much oxygen do they breathe?
 
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
+
+### Entry 4, October 26, 2018 ###
+
+[link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
+
+Lets first work only with big animals.
+
+African elephant
+Giraffe
+Brown Bear
+Ostrich
+African Bush elephant
+White Rhino
+Hippo
+
+
+
