@@ -12,7 +12,13 @@ I WILL not be subtracting oxygen for plants or vegetation as they produce their 
 
 I WILL not be counting sea creatures (including crabs, lobsters, aligators, etc.) (they have algae).
 
+I WILL not be counting insects.
+
+I WILL not get every species of animals but rather their genus.
+
 I WILL not be counting artic animals either.
+
+Basically I will only be counting the Animalia kingdom with some exeptions.
 
 My goal is to get a pretty presise answer and then compare it to the number of trees currently.
 
@@ -38,19 +44,7 @@ Second, the most important animal, humans, how much oxygen do they breathe?
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
 
-### Entry 4, October 26, 2018 ###
+### Entry 4 - ∞, October 26, 2018-end of forth  ###
 
 [link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
-
-Lets first work only with big animals.
-
-African elephant
-Giraffe
-Brown Bear
-Ostrich
-African Bush elephant
-White Rhino
-Hippo
-
-
 
