@@ -28,7 +28,25 @@ Any information here will be from google .
 
 ### Entry 2, November, 1st ###
 
+### Criterion B: Planning ###
 
+Checklist:
+
+Aethetics will be added on later but they will be added.
+
+Cost: A lot of time.
+
+User/ Audience: Anyone who wishes to learn about trees and our plannet (6+ years old to understand).
+
+Environmental considerations: this is for the environment, and we should strive for at least twice the number of trees here.
+
+Function: This project's function is to make us learn about the environment, it will be hard to maintain the ideal number of trees since humans are greedy for wood however it is very possible if enought effort is put in
+
+Materials: Wood/ paper ironically to make the poster board.
+
+Size/Content: Yes, there will be an amount of trees REQUIERED to keep us from dying but apart from that nothing.
+
+Impact: I want theis to inspire people to help trees and plant some, no one wants to die from suffication.
 
 ### Entry 3, October 25, 2018 ###
 
@@ -54,5 +72,5 @@ Second, the most important animal, humans, how much oxygen do they breathe?
 
 Let's first start with our precious USA:
 
-There is 325 Million Americans in the USA <-- 162,500 trees
+There is about 326 Million Americans in the USA (currently) <-- about 163,000 trees
 
