@@ -1,6 +1,6 @@
 # My personal project about trees #
 
-![alt text](tree.jpg)
+![alt text](tree.jpg "")
 
 ## The oxygen of trees and how much is it? ##
 
