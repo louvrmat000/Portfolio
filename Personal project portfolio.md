@@ -42,7 +42,7 @@ Function: This project's function is to make us learn about the environment, it 
 
 Materials: Wood/ paper ironically to make the poster board.
 
-Size/Content: Yes, there will be an amount of trees REQUIERED to keep us from dying but apart from that nothing.
+Size/Content: There will be an amount of trees REQUIERED to keep us from dying but apart from that nothing.
 
 Impact: I want theis to inspire people to help trees and plant some, no one wants to die from suffication.
 
@@ -60,11 +60,11 @@ Second, the most important animal, humans, how much oxygen do they breathe?
 
 Humans use 7-8 liters a minute while resting. However since the air is 20% oxygen and our breath is 15% oxygen, we consume 5% of it or 1/4 of the oxygen in that air therefore out of 100% of air swallowed only 5% is used. 11000 (100% of the air breathed in) x 5% (oxygen used) = 550 litters.
 
-A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x 365 (days in a year) is about 219000 litters a year. A tree produces enought oxygen for two people so a tree produces about 438000 litters (219000 x 2) a year or 1200 litters (438000 / 360) a day.
+A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x 365 (days in a year) is about 200750 litters a year. A tree produces enought oxygen for two people so a tree produces about 401500 litters (200750 x 2) a year or 1100 litters (401500 / 360) a day.
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
 
-### Entry 5, October 26, 2018###
+### Entry 5, October 26, 2018 ###
 
 #### General info ####
 
@@ -72,9 +72,11 @@ There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
 There are about 7.6 billion or 7,600,000,000 people on earth, since 1 tree produces enought oxygen for two people about 3.8 billion trees are needed to sustain just humans.
 
+### Entry 6, Novemeber 22, 2018 ###
+
+#### Livestock ####
 
 
 
 
-
-[link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
+![link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
