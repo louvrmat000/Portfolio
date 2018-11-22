@@ -70,13 +70,31 @@ A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x
 
 There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
-There are about 7.6 billion or 7,600,000,000 people on earth, since 1 tree produces enought oxygen for two people about 3.8 billion trees are needed to sustain just humans.
+There are about 7.6 billion or 7,600,000,000 people on earth, since 1 tree produces enought oxygen for two people about 3.8 billion trees are needed to sustain just humans.\
 
-### Entry 6, Novemeber 22, 2018 ###
+### Entry 6 November 22, 2018 ###
+
+#### close animals ####
+
+Tere are about 900 million dogs
+
+There are also 600 million cats
+
+### Entry 7, November 22, 2018 ###
 
 #### Livestock ####
 
-Today there is about 1.5 billion cows on earth who each breath 
+Today there is about 1.5 billion cows on earth 
+
+There is also 2 billion pigs
+
+There is also 19 billion chikens
+
+There is also 14 million camels
+
+### entry 8, November 22, 2018 ###
+
+
 
 
 
