@@ -76,7 +76,14 @@ There are about 7.6 billion or 7,600,000,000 people on earth, since 1 tree produ
 
 #### Livestock ####
 
+Today there is about 1.5 billion cows on earth who each breath 
 
 
 
-![link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
+### Sources ###
+
+[link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
+
+https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day
+
+https://www.emaze.com/@AOQFLWIQ
