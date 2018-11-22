@@ -1,4 +1,4 @@
-# My personal project about trees #
+# How many trees do we need to sustain the current animal population #
 
 ![alt text](tree.jpg)
 
