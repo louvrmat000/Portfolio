@@ -54,7 +54,7 @@ Impact: I want theis to inspire people to help trees and plant some, no one want
 
 First up determining how much oxygen trees produce.
 
-On average a tree produces 260 pounds of oxygen each year, or enought oxygen for two people!
+On average a tree produces 260 pounds of oxygen each year, or enought oxygen for two people.
 
 [The link for this info](https://www.emaze.com/@AOQFLWIQ)
 
@@ -68,11 +68,17 @@ Second, the most important animal, humans, how much oxygen do they breathe?
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
 
-### Entry 5, October 26, 2018-end of forth  ###
+### Entry 5, October 26, 2018###
+
+#### General info ####
+
+There are 3.04 trillion or 3,000,000,000,000 trees in the world.
+
+There are about 7.6 billion or 7,600,000,000 people on earth, since 1 tree produces enought oxygen for two people about 3.8 billion trees are needed to sustain just humans.
+
+
+
+
+
 
 [link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
-
-Let's first start with our precious USA:
-
-There is about 326 Million Americans in the USA (currently) <-- about 163,000 trees
-
