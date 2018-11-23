@@ -74,7 +74,7 @@ There are about 7.6 billion or 7,600,000,000 people on earth since one tree prod
 
 ### Entry 6 November 22, 2018 ###
 
-#### close animals ####
+#### close domesticated animals ####
 
 There are about 900 million dogs
 
