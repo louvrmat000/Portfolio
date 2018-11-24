@@ -78,7 +78,7 @@ There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
 There are about 7.6 billion or 7,600,000,000 people on earth since one tree produces enough oxygen for two people about 3.8 billion trees are needed to sustain just humans.\
 
-### Entry 6 November 22, 2018 ###
+### Entry 6 November 22-23, 2018 ###
 
 #### closest animals ####
 
@@ -94,7 +94,7 @@ https://www.quora.com/How-many-cats-are-in-the-world
 
 www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
-### Entry 7, November 22, 2018 ###
+### Entry 7, November 22-24, 2018 ###
 
 #### Livestock ####
 
@@ -116,6 +116,12 @@ https://www.worldatlas.com/articles/how-many-chickens-are-there-in-the-world.htm
 
 https://www.animallaw.info/article/brief-summary-biology-and-behavior-chicken
 
+There are about 1 billion sheeps in the world who breath at a rate of 20 breaths per minute. Since sheep's breathing rate is the same as humans the tree to sheep ratio is 0.5 so 1,000,000,000 x 0.5 = 500,000,000 or 500 million tree (for every sheep on earth).
+
+https://www.quora.com/How-many-sheep-are-there-in-the-world
+
+https://www.valleyvet.com/Library/dr-hickman-assessing-horse-vital-signs.html
+
 There are about 16 million camels (and dromedaries) who each breathe about 50 times per minute. 50 (breathing rate of camels) / 20 (breathing rate of humans) = 2.5. Since there is half tree per human: 0.5 (tree per human) x 2.5 (increase of breathing rate between camels and humans) = 1.25 (tree per camel). 16,000,000 (number of camels) x 1.25 (tree per camel) = 20,000,000 or 20 million trees (for every camel on earth).
 
 
@@ -123,9 +129,9 @@ https://wonderopolis.org/wonder/what-is-a-dromedary
 
 www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
 
-### entry 8, ex ex, 2018 ###
+### entry 8, november 24, 2018 ###
 
-
+####  Montain animals ####
 
 
 
