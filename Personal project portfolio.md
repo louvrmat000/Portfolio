@@ -24,6 +24,8 @@ My goal is to get a pretty precise answer and then compare it to the number of t
 
 Every animal's breath will be taken as if they are at rest.
 
+Please email me at: matthieu.louvrier@live.com if I forget something.
+
 ### Entry 2, November, 1st ###
 
 ### Criterion B: Planning ###
@@ -76,23 +78,47 @@ There are about 7.6 billion or 7,600,000,000 people on earth since one tree prod
 
 #### close domesticated animals ####
 
-There are about 900 million dogs
+There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on earth).
 
-There are also 600 million cats
+https://www.quora.com/How-many-dogs-are-there-in-the-world
+
+https://vcahospitals.com/know-your-pet/home-breathing-rate-evaluation
+
+There are about 600 million cats in the world who breathe 25 times per minute. 25 (breathing rate of cats) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cats and humans) = 0.625 (tree per cat). 600,000,000 (number of cats) x 0.625 (tree per cat) = 375,000,000 or 375 million trees (for every cat on earth).
+
+https://www.quora.com/How-many-cats-are-in-the-world
+
+www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
 ### Entry 7, November 22, 2018 ###
 
 #### Livestock ####
 
-Today there are about 1.5 billion cows on earth 
+Today there are about 1.5 billion cows on earth who breathe 60 times per minute. 60 (breathing rate of cows) / 20 (breathing rate of humans) = 3. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cows and humans) = 1.5 (tree per cow). 1,500,000,000 (number of cows) x 1.5 (tree per cow) = 2,250,000,000 or 2.25 billion trees (for every cow on earth).
 
-There are also 2 billion pigs
+https://www.quora.com/How-many-cows-are-there-in-the-world
 
-There are also 19 billion chikens
+www.coolcows.com.au/go-on-alert/cow-breathing-rate.htm
 
-There are also 14 million camels
+There are about 2 billion pigs who breathe 15 times per minute. 15 (breathing rate of pigs) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between pigs and humans) = 0.375 (tree per pig). 2,000,000,000 (number of pigs) x 0.375 (tree per pig) = 750,000,000 or 750 million trees (for every pig on earth).
 
-### entry 8, November 22, 2018 ###
+www.animalethics.org.uk/i-ch7-3-pigs.html
+
+https://articles.extension.org/pages/55505/what-is-the-normal-heart-and-repiratory-rate-for-pigs
+
+There are about 19 billion chickens on earth who breathe 21 times per minute. 21 (breathing rate of chickens) / 20 (breathing rate of humans) = 1.05. Since there is half tree per human: 0.5 (tree per human) x 1.05 (increase of breathing rate between chickens and humans) = 0.525 (tree per chicken). 19,000,000,000 (number of chickens) x 0.525 (tree per chicken) = 9,975,000,000 or 9.975 billion trees (for every chicken on earth).
+
+https://www.worldatlas.com/articles/how-many-chickens-are-there-in-the-world.html
+
+https://www.animallaw.info/article/brief-summary-biology-and-behavior-chicken
+
+There are about 16 million camels and dromedaries
+
+https://wonderopolis.org/wonder/what-is-a-dromedary
+
+
+
+### entry 8, ex ex, 2018 ###
 
 
 
