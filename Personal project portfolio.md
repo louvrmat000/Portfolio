@@ -130,6 +130,10 @@ https://wonderopolis.org/wonder/what-is-a-dromedary
 
 [link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
 
+
+
+https://www.thoughtco.com/how-much-oxygen-does-one-tree-produce-606785
+
 https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day
 
 https://www.emaze.com/@AOQFLWIQ
