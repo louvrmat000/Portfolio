@@ -1,8 +1,8 @@
 # How many trees do we need to sustain the current animal population #
 
-![alt text](tree.jpg)
+![alt text](trees.jpg)
 
-
+![alt text](TreesOxygen.jpg)
 
 ## The oxygen of trees and how much is it? ##
 
@@ -130,7 +130,7 @@ https://wonderopolis.org/wonder/what-is-a-dromedary
 
 [link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
 
-
+https://climatekids.nasa.gov/tree-rings/
 
 https://www.thoughtco.com/how-much-oxygen-does-one-tree-produce-606785
 
