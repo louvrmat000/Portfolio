@@ -1,8 +1,8 @@
 # How many trees do we need to sustain the current animal population #
 
-![alt text](trees.jpg)
-
 ![alt text](TreesOxygen.jpg)
+
+![alt text](trees.jpg)
 
 ## The oxygen of trees and how much is it? ##
 
