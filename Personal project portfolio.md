@@ -1,10 +1,10 @@
-# How many trees do we need to sustain the current animal population #
+# How many trees do we need to sustain the current animal population? #
 
 ![alt text](TreesOxygen.jpg)
 
 ![alt text](trees.jpg)
 
-## The oxygen of trees and how much is it? ##
+## Setup ##
 
 ### RULES (entry 1), October 26, 2018 ###
 
@@ -38,17 +38,19 @@ Aesthetics will be added on later, but they will be added.
 
 Cost: A lot of time.
 
-User/ Audience: Anyone who wishes to learn about trees and our planet (6+ years old to understand).
+User/ Audience: Anyone who wishes to learn about trees and our planet.
 
-Environmental considerations: this is for the environment, and we should strive for at least twice the number of trees here.
+Environmental considerations: this project is for awarness of the environment, and we should strive for at least twice the number of trees here.
 
-Function: This project's function is to make us learn about the environment, it will be hard to maintain the ideal number of trees since humans are greedy for wood. However, it is possible if enough effort is put in
+Function: This project's function is to make us learn about the environment, it will be hard to maintain the ideal number of trees since humans are greedy for wood. However, it is possible if enough effort is put in.
 
 Materials: Wood/ paper ironically to make the poster board.
 
-Size/Content: There will be a number of trees REQUIRED to keep us from dying but apart from that nothing.
+Size/Content: There will be a number of trees REQUIRED to keep us from dying.
 
-Impact: I want this to inspire people to help trees and plant some, no one wants to die from suffocation.
+Impact: I want this to inspire people to plant and repect trees, no one wants to die from suffocation.
+
+## Trees, Oxygen, and animals ##
 
 ### Entry 3, October 25, 2018 ###
 
@@ -78,7 +80,7 @@ There are about 7.6 billion or 7,600,000,000 people on earth since one tree prod
 
 ### Entry 6 November 22, 2018 ###
 
-#### close domesticated animals ####
+#### closest animals ####
 
 There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on earth).
 
@@ -114,11 +116,12 @@ https://www.worldatlas.com/articles/how-many-chickens-are-there-in-the-world.htm
 
 https://www.animallaw.info/article/brief-summary-biology-and-behavior-chicken
 
-There are about 16 million camels and dromedaries
+There are about 16 million camels (and dromedaries) who each breathe about 50 times per minute. 50 (breathing rate of camels) / 20 (breathing rate of humans) = 2.5. Since there is half tree per human: 0.5 (tree per human) x 2.5 (increase of breathing rate between camels and humans) = 1.25 (tree per camel). 16,000,000 (number of camels) x 1.25 (tree per camel) = 20,000,000 or 20 million trees (for every camel on earth).
+
 
 https://wonderopolis.org/wonder/what-is-a-dromedary
 
-
+www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
 
 ### entry 8, ex ex, 2018 ###
 
