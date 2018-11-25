@@ -18,7 +18,7 @@ I WILL not be counting sea creatures (including crabs, lobsters, alligators, etc
 
 I WILL not be counting insects.
 
-My goal is not to get every species of animals but rather their genuses.
+My goal is not to get every species of animals but rather the ones who have an impact (at least 100,000 + individuals)
 
 I WILL not be counting artic animals either.
 
@@ -76,7 +76,7 @@ A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x
 
 There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
-There are about 7.6 billion or 7,600,000,000 people on earth since one tree produces enough oxygen for two people about 3.8 billion trees are needed to sustain just humans.\
+There are about 7.6 billion or 7,600,000,000 people on earth now however, the human population is growing rapidly and it is estimated to be 9 billion in as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
 
 ### Entry 6 November 22-23, 2018 ###
 
@@ -129,11 +129,29 @@ https://wonderopolis.org/wonder/what-is-a-dromedary
 
 www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
 
-### entry 8, november 24, 2018 ###
+### entry 8, november 24-25, 2018 ###
 
-####  Montain animals ####
+####  Jungle animals ####
 
+There is about 236 thousand chimpanzes in the world who breathe 25 times per minute. 25 (breathing rate of chimpanzes) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between chimpanzes and humans) = 0.625 (tree per chimpanze). 236,000 (number of chimpanzes) x 0.625 (tree per chimpanze) = 147,500 or 147.5 thousand trees (for every chimpanze on earth).
 
+http://www.janegoodall.org.uk/chimpanzees/chimpanzee-central/15-chimpanzees/chimpanzee-central/21-chimp-facts
+
+https://sites.google.com/site/giantscience/science/biology/circulatory-system/heart/pulse-rate
+
+There are about 175 thousand gorillas on earth who breath 20 times per minute. Since this is the same as humans, every gorilla needs half a tree. 175000 (number of gorrilas) x 0.5 (tree per gorilla) = 87,500 or 87.5 thousand trees are needed for every gorrila on earth.
+
+https://www.youtube.com/watch?v=F2XkjnNO-vA
+
+https://answers.yahoo.com/question/index?qid=20111215101608AAFnBGr&guccounter=1
+
+### Entry 9, november 25, 2018 ###
+
+#### Small rodents ####
+
+there are about 1 million ocelots on earth who
+
+https://defenders.org/ocelot/basic-facts
 
 ### Sources ###
 
