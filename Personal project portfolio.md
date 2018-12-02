@@ -50,6 +50,56 @@ Size/Content: There will be a number of trees REQUIRED to keep us from dying.
 
 Impact: I want this to inspire people to plant and repect trees, no one wants to die from suffocation.
 
+### Criterion C: Creating the solution ###
+
+changes: 
+
+- I switched it from life to only animal species on land due to intervening factors like photosynthetic plant, tiny bugs and sea animals
+
+follow the plan to make the solution:
+
+- I am steadily working towords my goal by working a little bit by a little bit
+
+Demonstrating technical skills:
+
+- I have perseverance because I did want to give up multiple times
+
+- I have reasearching skill because this information isn't easy to find
+
+- I can build a potfolio from nothing on a website.
+
+Construct a logical plan:
+
+- work with big animal population, work my way down so I don't spend more time than needed on something with a population 1,000,000 while I haven't done humans.
+
+- get as close to the result as possible and make my personal project poster board.
+
+### Criterion D: Evaluating ###
+
+Impact of the solution:
+
+- Raise awarness to potential lack of trees
+
+How could it be improved:
+
+- adding other photosynthetic plants
+
+- adding more species
+
+Success of the solution:
+
+- It might get people to care about and plant trees
+
+Design, Testing, Methods Development, Planning:
+
+- I designed this website
+
+- I tested multiple sources and found the best
+
+- My methods could be improved however with my reasources I think this is the best.
+
+- I planned to do the biggest animals first then work my way down
+
 ## Trees, Oxygen, and animals ##
 
 ### Entry 3, October 25, 2018 ###
@@ -149,9 +199,18 @@ https://answers.yahoo.com/question/index?qid=20111215101608AAFnBGr&guccounter=1
 
 #### Small rodents ####
 
-there are about 1 million ocelots on earth who
+there are about 1 million ocelots on earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on earth).
+
 
 https://defenders.org/ocelot/basic-facts
+
+www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
+
+### Entry 10, december 2nd ###
+
+#### Most abundant animals (no insects) ####
+
+
 
 ### Sources ###
 
