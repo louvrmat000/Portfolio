@@ -212,23 +212,29 @@ www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
 #### Most abundant mamals ####
 
-There are about 850 million goats in the World who breath at an average of 20 breaths per minute. As this is the same as humans they used half a tree each. 850,000,000 (number of goats) x 0.5 (rate of tree per goat) = 425,000,000 or 425 million trees are needed for every goat on Earth.
+There are about 850 million goats in the World who breath at an average of 20 breaths per minute. As goats' repiration rate is the same as humans' they both use half a tree each. 850,000,000 (number of goats) x 0.5 (rate of tree per goat) = 425,000,000 or 425 million trees are needed for every goat on Earth.
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.dummies.com/home-garden/hobby-farming/raising-goats/how-to-take-your-goats-temperature-pulse-and-respiration/
 
-There are about 172,890 thousands buffaloes on Earth that breathe at an average of 15 breaths per minute. 15 (breathing rate of buffaloes) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between buffaloes and humans) = 0.375 (tree per buffalo). 172,890,000 (number of buffaloes) x 0.375 (tree per buffalo) = 64,833,750 or 64.83375 million trees (for every buffalo on Earth).
+There are about 172,890 thousand buffaloes on Earth that breathe at an average of 15 breaths per minute. 15 (breathing rate of buffaloes) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between buffaloes and humans) = 0.375 (tree per buffalo). 172,890,000 (number of buffaloes) x 0.375 (tree per buffalo) = 64,833,750 or 64.83375 million trees (for every buffalo on Earth).
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.quora.com/How-many-times-do-different-animals-breathe-in-1-minute
 
-There are about 12,556,438 deers on Earth who breath 20 times per minute
+There are about 12,556,438 deers on Earth who breath 20 times per minute. As deers respiration rate is the same as humans' they both use half a tree each. 12,556,438 (number of deers) x 0.5 (rate of tree per deer) = 6,278,219 or 6.278219 million trees are needed for every deer on Earth.
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.wideopenspaces.com/11-fawn-facts-might-not-known-pics/
+
+There are about 13.239 million duikers on Earth who breath
+
+https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
+
+
 
 ### Sources ###
 
