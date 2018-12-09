@@ -18,7 +18,7 @@ I WILL not be counting sea creatures (including crabs, lobsters, alligators, etc
 
 I WILL not be counting insects.
 
-My goal is not to get every species of animals but rather the ones who have an impact (at least 100,000 + individuals)
+My goal is not to get every species of animals but rather the ones who have an impact (at least 1,000,000 + individuals)
 
 I WILL not be counting artic animals either.
 
@@ -49,6 +49,8 @@ Materials: Wood/ paper ironically to make the poster board.
 Size/Content: There will be a number of trees REQUIRED to keep us from dying.
 
 Impact: I want this to inspire people to plant and repect trees, no one wants to die from suffocation.
+
+### November 31st ###
 
 ### Criterion C: Creating the solution ###
 
@@ -126,19 +128,19 @@ A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x
 
 There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
-There are about 7.6 billion or 7,600,000,000 people on earth now however, the human population is growing rapidly and it is estimated to be 9 billion in as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
+There are about 7.6 billion or 7,600,000,000 people on Earth now however, the human population is growing rapidly and it is estimated to be 9 billion in as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
 
 ### Entry 6 November 22-23, 2018 ###
 
 #### closest animals ####
 
-There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on earth).
+There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on Earth).
 
 https://www.quora.com/How-many-dogs-are-there-in-the-world
 
 https://vcahospitals.com/know-your-pet/home-breathing-rate-evaluation
 
-There are about 600 million cats in the world who breathe 25 times per minute. 25 (breathing rate of cats) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cats and humans) = 0.625 (tree per cat). 600,000,000 (number of cats) x 0.625 (tree per cat) = 375,000,000 or 375 million trees (for every cat on earth).
+There are about 600 million cats in the world who breathe 25 times per minute. 25 (breathing rate of cats) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cats and humans) = 0.625 (tree per cat). 600,000,000 (number of cats) x 0.625 (tree per cat) = 375,000,000 or 375 million trees (for every cat on Earth).
 
 https://www.quora.com/How-many-cats-are-in-the-world
 
@@ -148,31 +150,31 @@ www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
 #### Livestock ####
 
-Today there are about 1.5 billion cows on earth who breathe 60 times per minute. 60 (breathing rate of cows) / 20 (breathing rate of humans) = 3. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cows and humans) = 1.5 (tree per cow). 1,500,000,000 (number of cows) x 1.5 (tree per cow) = 2,250,000,000 or 2.25 billion trees (for every cow on earth).
+Today there are about 1.5 billion cows on Earth who breathe 60 times per minute. 60 (breathing rate of cows) / 20 (breathing rate of humans) = 3. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cows and humans) = 1.5 (tree per cow). 1,500,000,000 (number of cows) x 1.5 (tree per cow) = 2,250,000,000 or 2.25 billion trees (for every cow on Earth).
 
 https://www.quora.com/How-many-cows-are-there-in-the-world
 
 www.coolcows.com.au/go-on-alert/cow-breathing-rate.htm
 
-There are about 2 billion pigs who breathe 15 times per minute. 15 (breathing rate of pigs) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between pigs and humans) = 0.375 (tree per pig). 2,000,000,000 (number of pigs) x 0.375 (tree per pig) = 750,000,000 or 750 million trees (for every pig on earth).
+There are about 2 billion pigs who breathe 15 times per minute. 15 (breathing rate of pigs) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between pigs and humans) = 0.375 (tree per pig). 2,000,000,000 (number of pigs) x 0.375 (tree per pig) = 750,000,000 or 750 million trees (for every pig on Earth).
 
 www.animalethics.org.uk/i-ch7-3-pigs.html
 
 https://articles.extension.org/pages/55505/what-is-the-normal-heart-and-repiratory-rate-for-pigs
 
-There are about 19 billion chickens on earth who breathe 21 times per minute. 21 (breathing rate of chickens) / 20 (breathing rate of humans) = 1.05. Since there is half tree per human: 0.5 (tree per human) x 1.05 (increase of breathing rate between chickens and humans) = 0.525 (tree per chicken). 19,000,000,000 (number of chickens) x 0.525 (tree per chicken) = 9,975,000,000 or 9.975 billion trees (for every chicken on earth).
+There are about 19 billion chickens on Earth who breathe 21 times per minute. 21 (breathing rate of chickens) / 20 (breathing rate of humans) = 1.05. Since there is half tree per human: 0.5 (tree per human) x 1.05 (increase of breathing rate between chickens and humans) = 0.525 (tree per chicken). 19,000,000,000 (number of chickens) x 0.525 (tree per chicken) = 9,975,000,000 or 9.975 billion trees (for every chicken on Earth).
 
 https://www.worldatlas.com/articles/how-many-chickens-are-there-in-the-world.html
 
 https://www.animallaw.info/article/brief-summary-biology-and-behavior-chicken
 
-There are about 1 billion sheeps in the world who breath at a rate of 20 breaths per minute. Since sheep's breathing rate is the same as humans the tree to sheep ratio is 0.5 so 1,000,000,000 x 0.5 = 500,000,000 or 500 million tree (for every sheep on earth).
+There are about 1 billion sheeps in the world who breath at a rate of 20 breaths per minute. Since sheep's breathing rate is the same as humans the tree to sheep ratio is 0.5 so 1,000,000,000 x 0.5 = 500,000,000 or 500 million tree (for every sheep on Earth).
 
 https://www.quora.com/How-many-sheep-are-there-in-the-world
 
 https://www.valleyvet.com/Library/dr-hickman-assessing-horse-vital-signs.html
 
-There are about 16 million camels (and dromedaries) who each breathe about 50 times per minute. 50 (breathing rate of camels) / 20 (breathing rate of humans) = 2.5. Since there is half tree per human: 0.5 (tree per human) x 2.5 (increase of breathing rate between camels and humans) = 1.25 (tree per camel). 16,000,000 (number of camels) x 1.25 (tree per camel) = 20,000,000 or 20 million trees (for every camel on earth).
+There are about 16 million camels (and dromedaries) who each breathe about 50 times per minute. 50 (breathing rate of camels) / 20 (breathing rate of humans) = 2.5. Since there is half tree per human: 0.5 (tree per human) x 2.5 (increase of breathing rate between camels and humans) = 1.25 (tree per camel). 16,000,000 (number of camels) x 1.25 (tree per camel) = 20,000,000 or 20 million trees (for every camel on Earth).
 
 
 https://wonderopolis.org/wonder/what-is-a-dromedary
@@ -183,13 +185,13 @@ www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
 
 ####  Jungle animals ####
 
-There is about 236 thousand chimpanzes in the world who breathe 25 times per minute. 25 (breathing rate of chimpanzes) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between chimpanzes and humans) = 0.625 (tree per chimpanze). 236,000 (number of chimpanzes) x 0.625 (tree per chimpanze) = 147,500 or 147.5 thousand trees (for every chimpanze on earth).
+There is about 236 thousand chimpanzes in the world who breathe 25 times per minute. 25 (breathing rate of chimpanzes) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between chimpanzes and humans) = 0.625 (tree per chimpanze). 236,000 (number of chimpanzes) x 0.625 (tree per chimpanze) = 147,500 or 147.5 thousand trees (for every chimpanze on Earth).
 
 http://www.janegoodall.org.uk/chimpanzees/chimpanzee-central/15-chimpanzees/chimpanzee-central/21-chimp-facts
 
 https://sites.google.com/site/giantscience/science/biology/circulatory-system/heart/pulse-rate
 
-There are about 175 thousand gorillas on earth who breath 20 times per minute. Since this is the same as humans, every gorilla needs half a tree. 175000 (number of gorrilas) x 0.5 (tree per gorilla) = 87,500 or 87.5 thousand trees are needed for every gorrila on earth.
+There are about 175 thousand gorillas on Earth who breath 20 times per minute. Since this is the same as humans, every gorilla needs half a tree. 175000 (number of gorrilas) x 0.5 (tree per gorilla) = 87,500 or 87.5 thousand trees are needed for every gorrila on Earth.
 
 https://www.youtube.com/watch?v=F2XkjnNO-vA
 
@@ -199,22 +201,40 @@ https://answers.yahoo.com/question/index?qid=20111215101608AAFnBGr&guccounter=1
 
 #### Small rodents ####
 
-there are about 1 million ocelots on earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on earth).
+There are about 1 million ocelots on Earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on Earth).
 
 
 https://defenders.org/ocelot/basic-facts
 
 www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
-### Entry 10, december 2nd ###
+### Entry 10, december 2nd - december 9th ###
 
-#### Most abundant animals (no insects) ####
+#### Most abundant mamals ####
 
+There are about 850 million goats in the World who breath at an average of 20 breaths per minute. As this is the same as humans they used half a tree each. 850,000,000 (number of goats) x 0.5 (rate of tree per goat) = 425,000,000 or 425 million trees are needed for every goat on Earth.
 
+https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
+
+https://www.dummies.com/home-garden/hobby-farming/raising-goats/how-to-take-your-goats-temperature-pulse-and-respiration/
+
+There are about 172,890 thousands buffaloes on Earth that breathe at an average of 15 breaths per minute. 15 (breathing rate of buffaloes) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between buffaloes and humans) = 0.375 (tree per buffalo). 172,890,000 (number of buffaloes) x 0.375 (tree per buffalo) = 64,833,750 or 64.83375 million trees (for every buffalo on Earth).
+
+https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
+
+https://www.quora.com/How-many-times-do-different-animals-breathe-in-1-minute
+
+There are about 12,556,438 deers on Earth who breath 20 times per minute
+
+https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
+
+https://www.wideopenspaces.com/11-fawn-facts-might-not-known-pics/
 
 ### Sources ###
 
 [link to all animals](https://lib2.colostate.edu/wildlife/atoz.php?letter=ALL)
+
+[Wikipedia knows everything](https://en.wikipedia.org/wiki/Lists_of_organisms_by_population)
 
 https://climatekids.nasa.gov/tree-rings/
 
