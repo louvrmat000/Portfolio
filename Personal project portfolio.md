@@ -218,7 +218,7 @@ https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.dummies.com/home-garden/hobby-farming/raising-goats/how-to-take-your-goats-temperature-pulse-and-respiration/
 
-There are about 172,890 thousand buffaloes on Earth that breathe at an average of 15 breaths per minute. 15 (breathing rate of buffaloes) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between buffaloes and humans) = 0.375 (tree per buffalo). 172,890,000 (number of buffaloes) x 0.375 (tree per buffalo) = 64,833,750 or 64.83375 million trees (for every buffalo on Earth).
+There are about 175 million buffaloes on Earth that breathe at an average of 15 breaths per minute. 15 (breathing rate of buffaloes) / 20 (breathing rate of humans) = 0.75. Since there is half tree per human: 0.5 (tree per human) x 0.75 (increase of breathing rate between buffaloes and humans) = 0.375 (tree per buffalo). 175,000,000 (number of buffaloes) x 0.375 (tree per buffalo) = 65,625,000 or 65.625 million trees (for every buffalo on Earth).
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
@@ -230,11 +230,29 @@ https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.wideopenspaces.com/11-fawn-facts-might-not-known-pics/
 
-There are about 13.239 million duikers on Earth who breath
+There are about 13.239 million duikers on Earth who breath 20 times a minute. Since duiker's breathing rate is the same as humans the tree to duiker ratio is 0.5 so 13,239,000 x 0.5 = 6,619,500 or about 6.6 million tree (for every duiker on Earth).
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
+There are about 5 million gazelles/ antelopes on Earth who breathe about 16 breathes per minute while resting. 16 (breathing rate of gazelles) / 20 (breathing rate of humans) = 0.8. Since there is half tree per human: 0.5 (tree per human) x 0.8 (increase of breathing rate between gazelles and humans) = 0.4 (tree per gazelle). 5,000,000 (number of gazelles) x 0.4 (tree per gazelle) = 2,000,000 or 2 million trees (for every gazelle on Earth).
 
+
+https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
+
+https://www.vaajournal.org/article/S1467-2987(17)30200-3/fulltext
+
+There are about 1.5 million mooses on Earth who breathe about 20 times per minute. As a mose's respiration rate is the same as humans' they both use half a tree each. 1,500,000 (number of mooses) x 0.5 (rate of tree per moose) = 750,000 or 0.75 million trees are needed for every moose on Earth.
+
+
+https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
+
+https://www.ncbi.nlm.nih.gov/pubmed/6530720
+
+There are about 1.195 million bears on Earth who breathe 22 times per minute. 22 (breathing rate of bears) / 20 (breathing rate of humans) = 1.1. Since there is half tree per human: 0.5 (tree per human) x 1.1 (increase of breathing rate between bears and humans) = 0.55 (tree per bear). 1,195,000 (number of bears) x 0.55 (tree per bear) = 657,250 or 0.65725 million trees (for every bear on Earth).
+
+https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
+
+http://wildpro.twycrosszoo.org/S/0MCarnivor/ursidae/ursus/Ursus_maritimus/10Ursus_maritimusDetPhy.htm
 
 ### Sources ###
 
