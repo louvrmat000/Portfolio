@@ -26,29 +26,53 @@ My goal is to get a pretty precise answer and then compare it to the number of t
 
 Every animal's breath will be taken as if they are at rest.
 
-Please email me at: matthieu.louvrier@live.com if I forget something.
+Please email me at: louvrmat000@mysbisd.org if I forget something.
 
 ### Entry 2, November, 1st ###
 
+### Criterion A: Inquiring and analysing ###
+
+Explain and justify the need:
+
+We need to able to say that we do or don't have enought trees for our planet, especially if we don't have enought because we would slowly run out of oxygen and many of us would asfixiate.
+
+Identify and Prioritise research:
+
+I need a reliable source to tell me about animals and how much are there telling me how important they are. Next comes the research about how they breathe.
+
+Analyse existing product:
+
+I have not found any sources or blog or websites attempting what I am doing and that is why I chose this task, so that we may know something important.
+
+Develop a design brief:
+
+Target Consumer: Anyone who will hear and listen
+
+Problem Statement: We humans are in charge of Earth, most of the time we control what happens on this planet and so it is also our duty to protect it and to make sure the planet does not suffer espeicially by our hands, making it lack oxygen is the worst because we will be affecting in a bad way all multicellular organisms!
+
+Design statement: I will continue and build up a website that desplay the ammount of oxygen needed for our current animal population.
+
+
 ### Criterion B: Planning ###
 
-Checklist:
+Develop a design specification:
 
-Aesthetics will be added on later, but they will be added.
+Display a number of trees, has entries staiting what I did and why
 
-Cost: A lot of time.
+Develop Design ideas:
 
-User/ Audience: Anyone who wishes to learn about trees and our planet.
+Have a big number, small entries
 
-Environmental considerations: this project is for awarness of the environment, and we should strive for at least twice the number of trees here.
+have a small number but bigger entries
 
-Function: This project's function is to make us learn about the environment, it will be hard to maintain the ideal number of trees since humans are greedy for wood. However, it is possible if enough effort is put in.
+Present the the chosen design:
 
-Materials: Wood/ paper ironically to make the poster board.
+To have a big number for it is more powerfull and my entries are only for the curious ones
 
-Size/Content: There will be a number of trees REQUIRED to keep us from dying.
+Develop planning drawings or diagrams:
 
-Impact: I want this to inspire people to plant and repect trees, no one wants to die from suffocation.
+
+
 
 ### November 31st ###
 
