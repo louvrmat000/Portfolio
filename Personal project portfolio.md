@@ -71,7 +71,7 @@ To have a big number for it is more powerfull and my entries are only for the cu
 
 Develop planning drawings or diagrams:
 
-![alt text](018-12-21 (2).png)
+![alt text](XTress.png)
 
 
 ### November 31st ###
