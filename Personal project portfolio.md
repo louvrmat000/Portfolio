@@ -159,7 +159,7 @@ There are about 7.6 billion or 7,600,000,000 people on Earth now however, the hu
 
 ### Entry 6, november 25, 2018 ###
 
-#### Small rodents ####
+#### Random ####
 
 There are about 1 million ocelots on Earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on Earth).
 
