@@ -144,6 +144,11 @@ A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
 
+80 (average human heartbeat per minute) / 20 (average human breathing rate) = 4 (ratio of repiration rate to heart beat)
+Only be used when I don't know the repiration rate.;
+
+https://biology.stackexchange.com/questions/20703/what-is-the-ratio-of-breathing-rate-to-heart-rate
+
 ### Entry 5, October 26, 2018 ###
 
 #### General info ####
@@ -152,25 +157,19 @@ There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
 There are about 7.6 billion or 7,600,000,000 people on Earth now however, the human population is growing rapidly and it is estimated to be 9 billion in as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
 
-### Entry 6 November 22-23, 2018 ###
+### Entry 6, november 25, 2018 ###
 
-#### closest animals ####
+#### Small rodents ####
 
-There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on Earth).
+There are about 1 million ocelots on Earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on Earth).
 
-https://www.quora.com/How-many-dogs-are-there-in-the-world
-
-https://vcahospitals.com/know-your-pet/home-breathing-rate-evaluation
-
-There are about 600 million cats in the world who breathe 25 times per minute. 25 (breathing rate of cats) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cats and humans) = 0.625 (tree per cat). 600,000,000 (number of cats) x 0.625 (tree per cat) = 375,000,000 or 375 million trees (for every cat on Earth).
-
-https://www.quora.com/How-many-cats-are-in-the-world
+https://defenders.org/ocelot/basic-facts
 
 www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
-### Entry 7, November 22-24, 2018 ###
+### Entry 7, december 2nd - december 9th ###
 
-#### Livestock ####
+#### Most abundant mamals ####
 
 Today there are about 1.5 billion cows on Earth who breathe 60 times per minute. 60 (breathing rate of cows) / 20 (breathing rate of humans) = 3. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cows and humans) = 1.5 (tree per cow). 1,500,000,000 (number of cows) x 1.5 (tree per cow) = 2,250,000,000 or 2.25 billion trees (for every cow on Earth).
 
@@ -198,41 +197,9 @@ https://www.valleyvet.com/Library/dr-hickman-assessing-horse-vital-signs.html
 
 There are about 16 million camels (and dromedaries) who each breathe about 50 times per minute. 50 (breathing rate of camels) / 20 (breathing rate of humans) = 2.5. Since there is half tree per human: 0.5 (tree per human) x 2.5 (increase of breathing rate between camels and humans) = 1.25 (tree per camel). 16,000,000 (number of camels) x 1.25 (tree per camel) = 20,000,000 or 20 million trees (for every camel on Earth).
 
-
 https://wonderopolis.org/wonder/what-is-a-dromedary
 
 www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
-
-### entry 8, november 24-25, 2018 ###
-
-####  Jungle animals ####
-
-There is about 236 thousand chimpanzes in the world who breathe 25 times per minute. 25 (breathing rate of chimpanzes) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between chimpanzes and humans) = 0.625 (tree per chimpanze). 236,000 (number of chimpanzes) x 0.625 (tree per chimpanze) = 147,500 or 147.5 thousand trees (for every chimpanze on Earth).
-
-http://www.janegoodall.org.uk/chimpanzees/chimpanzee-central/15-chimpanzees/chimpanzee-central/21-chimp-facts
-
-https://sites.google.com/site/giantscience/science/biology/circulatory-system/heart/pulse-rate
-
-There are about 175 thousand gorillas on Earth who breath 20 times per minute. Since this is the same as humans, every gorilla needs half a tree. 175000 (number of gorrilas) x 0.5 (tree per gorilla) = 87,500 or 87.5 thousand trees are needed for every gorrila on Earth.
-
-https://www.youtube.com/watch?v=F2XkjnNO-vA
-
-https://answers.yahoo.com/question/index?qid=20111215101608AAFnBGr&guccounter=1
-
-### Entry 9, november 25, 2018 ###
-
-#### Small rodents ####
-
-There are about 1 million ocelots on Earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on Earth).
-
-
-https://defenders.org/ocelot/basic-facts
-
-www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
-
-### Entry 10, december 2nd - december 9th ###
-
-#### Most abundant mamals ####
 
 There are about 850 million goats in the World who breath at an average of 20 breaths per minute. As goats' repiration rate is the same as humans' they both use half a tree each. 850,000,000 (number of goats) x 0.5 (rate of tree per goat) = 425,000,000 or 425 million trees are needed for every goat on Earth.
 
@@ -258,27 +225,33 @@ https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 There are about 5 million gazelles/ antelopes on Earth who breathe about 16 breathes per minute while resting. 16 (breathing rate of gazelles) / 20 (breathing rate of humans) = 0.8. Since there is half tree per human: 0.5 (tree per human) x 0.8 (increase of breathing rate between gazelles and humans) = 0.4 (tree per gazelle). 5,000,000 (number of gazelles) x 0.4 (tree per gazelle) = 2,000,000 or 2 million trees (for every gazelle on Earth).
 
-
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.vaajournal.org/article/S1467-2987(17)30200-3/fulltext
 
 There are about 1.5 million mooses on Earth who breathe about 20 times per minute. As a mose's respiration rate is the same as humans' they both use half a tree each. 1,500,000 (number of mooses) x 0.5 (rate of tree per moose) = 750,000 or 0.75 million trees are needed for every moose on Earth.
 
-
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.ncbi.nlm.nih.gov/pubmed/6530720
 
-### Entry 10, december 2nd - december 9th ###
+### Entry 8, december 2nd - december 9th ###
 
 #### Most ambundent carnivorans ####
 
-dogs
+There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on Earth).
 
-cats
+https://www.quora.com/How-many-dogs-are-there-in-the-world
 
-There are about 84.641 million seals
+https://vcahospitals.com/know-your-pet/home-breathing-rate-evaluation
+
+There are about 600 million cats in the world who breathe 25 times per minute. 25 (breathing rate of cats) / 20 (breathing rate of humans) = 1.25. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cats and humans) = 0.625 (tree per cat). 600,000,000 (number of cats) x 0.625 (tree per cat) = 375,000,000 or 375 million trees (for every cat on Earth).
+
+https://www.quora.com/How-many-cats-are-in-the-world
+
+www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
+
+There are about 84.641 million seals on Earth 
 
 https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
 
@@ -289,6 +262,12 @@ There are about 1.195 million bears on Earth who breathe 22 times per minute. 22
 https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
 
 http://wildpro.twycrosszoo.org/S/0MCarnivor/ursidae/ursus/Ursus_maritimus/10Ursus_maritimusDetPhy.htm
+
+### Entry 9, December 30th ###
+
+#### Bats ####
+
+There are about 1.32692 million bats in the world
 
 ### Sources ###
 
