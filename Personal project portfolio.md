@@ -14,13 +14,11 @@ I WILL be ignoring other photosynthetic plants.
 
 I WILL not be subtracting oxygen for plants or vegetation as they produce their oxygen (except trees).
 
-I WILL not be counting sea creatures (including crabs, lobsters, alligators, etc.) (they have algae).
+I WILL not be counting sea creatures (including crabs, lobsters, alligators, etc.) (they have algue).
 
 I WILL not be counting insects.
 
 My goal is not to get every species of animals but rather the ones who have an impact (at least 1,000,000 + individuals)
-
-I WILL not be counting artic animals either.
 
 My goal is to get a pretty precise answer and then compare it to the number of trees currently.
 
@@ -271,6 +269,20 @@ There are about 1.5 million mooses on Earth who breathe about 20 times per minut
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.ncbi.nlm.nih.gov/pubmed/6530720
+
+### Entry 10, december 2nd - december 9th ###
+
+#### Most ambundent carnivorans ####
+
+dogs
+
+cats
+
+There are about 84.641 million seals
+
+https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
+
+
 
 There are about 1.195 million bears on Earth who breathe 22 times per minute. 22 (breathing rate of bears) / 20 (breathing rate of humans) = 1.1. Since there is half tree per human: 0.5 (tree per human) x 1.1 (increase of breathing rate between bears and humans) = 0.55 (tree per bear). 1,195,000 (number of bears) x 0.55 (tree per bear) = 657,250 or 0.65725 million trees (for every bear on Earth).
 
