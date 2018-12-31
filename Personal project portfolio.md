@@ -251,7 +251,7 @@ https://www.quora.com/How-many-cats-are-in-the-world
 
 www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
-There are about 84.641 million seals on Earth 
+There are about 84.641 million seals on Earth. Seals have a heart rate of 108.7 on average. We know that to go from heart rate to repiration rate, we need to divide by 4. 108.7 (Seals' heart rate) / 4 (respiration rate / heart rate)
 
 https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
 
