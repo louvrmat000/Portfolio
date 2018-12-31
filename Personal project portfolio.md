@@ -138,9 +138,9 @@ On average a tree produces 260 pounds of oxygen each year, or enough oxygen for 
 
 Second, the most important animal, humans, how much oxygen do they breathe?
 
-Humans use 7-8 liters a minute while resting. However since the air is 20% oxygen and our breath is 15% oxygen, we consume 5% of it or 1/4 of the oxygen in that air therefore out of 100% of air swallowed only 5% is used. 11000 (100% of the air breathed in) x 5% (oxygen used) = 550 litters.
+Humans use 7-8 liters a minute while resting. However since the air is 20% oxygen and our breath is 15% oxygen, we consume 5% of it or 1/4 of the oxygen in that air therefore out of 100% of air swallowed only 5% is used. 11000 (100% of the air breathed in) x 5% (oxygen used) = 550 liters.
 
-A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x 365 (days in a year) is about 200750 litters a year. A tree produces enough oxygen for two people, so a tree produces about 401500 litters (200750 x 2) a year or 1100 litters (401500 / 360) a day.
+A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x 365 (days in a year) is about 200750 liters a year. A tree produces enough oxygen for two people, so a tree produces about 401500 liters (200750 x 2) a year or 1100 litters (401500 / 360) a day.
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
 
