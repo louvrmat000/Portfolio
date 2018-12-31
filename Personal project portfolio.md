@@ -251,11 +251,11 @@ https://www.quora.com/How-many-cats-are-in-the-world
 
 www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
-There are about 84.641 million seals on Earth. Seals have a heart rate of 108.7 on average. We know that to go from heart rate to repiration rate, we need to divide by 4. 108.7 (Seals' heart rate) / 4 (respiration rate / heart rate)
+There are about 84.641 million seals on Earth. Seals have a heart rate of 108.7 on average. We know that to go from heart rate to repiration rate, we need to divide by 4. 108.7 (Seals' heart rate) / 4 (respiration rate / heart rate) = 27.175 (Seals respiration rate). 27.175 (breathing rate of seals) / 20 (breathing rate of humans) = 1.35875. Since there is half tree per human: 0.5 (tree per human) x 1.35875 (increase of breathing rate between seals and humans) = 0.679375 (tree per seal). 84.641,000 (number of seals) x 0.679375 (tree per seal) = 57,502,979.375 or about 57.502979375 million trees (for every seal on Earth).
 
 https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
 
-
+https://www.ncbi.nlm.nih.gov/pubmed/10070067
 
 There are about 1.195 million bears on Earth who breathe 22 times per minute. 22 (breathing rate of bears) / 20 (breathing rate of humans) = 1.1. Since there is half tree per human: 0.5 (tree per human) x 1.1 (increase of breathing rate between bears and humans) = 0.55 (tree per bear). 1,195,000 (number of bears) x 0.55 (tree per bear) = 657,250 or 0.65725 million trees (for every bear on Earth).
 
@@ -267,7 +267,11 @@ http://wildpro.twycrosszoo.org/S/0MCarnivor/ursidae/ursus/Ursus_maritimus/10Ursu
 
 #### Bats ####
 
-There are about 1.32692 million bats in the world
+There are about 1,326,920 or 1.32692 million bats in the world. bats have a heart rate of 200 on average. We know that to go from heart rate to repiration rate, we need to divide by 4. 200 (bats' heart rate) / 4 (respiration rate / heart rate) = 50 (bats respiration rate). 50 (breathing rate of bats) / 20 (breathing rate of humans) = 2.5. Since there is half tree per human: 0.5 (tree per human) x 2.5 (increase of breathing rate between bats and humans) = 1.25 (tree per bat). 1,326,920 (number of bats) x 1.25 (tree per bat) = 1,658,650 or 1.65865 million trees (for every bat on Earth).
+
+https://en.wikipedia.org/wiki/List_of_bats_by_population
+
+https://www.cardiovascularbusiness.com/topics/lipids-metabolic/bat-can-vary-heart-rate-800-bpm
 
 ### Sources ###
 
