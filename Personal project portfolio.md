@@ -157,16 +157,6 @@ There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
 There are about 7.6 billion or 7,600,000,000 people on Earth now however, the human population is growing rapidly and it is estimated to be 9 billion in as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
 
-### Entry 6, november 25, 2018 ###
-
-#### Random ####
-
-There are about 1 million ocelots on Earth who breathe at 25 breath per minute just like cats. Using the same equation as the one for cats, 1,000,000 (number of ocelots) x 0.625 (tree per ocelot) = 625,000 or 625 thousand trees (for every ocelot on Earth).
-
-https://defenders.org/ocelot/basic-facts
-
-www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
-
 ### Entry 7, december 2nd - december 9th 2018###
 
 #### Most abundant mamals ####
