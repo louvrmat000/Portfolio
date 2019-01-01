@@ -167,7 +167,7 @@ https://defenders.org/ocelot/basic-facts
 
 www.vetstreet.com/dr-marty-becker/check-your-cats-vital-signs-at-home
 
-### Entry 7, december 2nd - december 9th ###
+### Entry 7, december 2nd - december 9th 2018###
 
 #### Most abundant mamals ####
 
@@ -235,7 +235,7 @@ https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.ncbi.nlm.nih.gov/pubmed/6530720
 
-### Entry 8, december 2nd - december 9th ###
+### Entry 8, december 2nd - december 9th 2018###
 
 #### Most ambundent carnivorans ####
 
@@ -263,7 +263,7 @@ https://en.wikipedia.org/wiki/List_of_carnivorans_by_population
 
 http://wildpro.twycrosszoo.org/S/0MCarnivor/ursidae/ursus/Ursus_maritimus/10Ursus_maritimusDetPhy.htm
 
-### Entry 9, December 30th ###
+### Entry 9, December 30th-31st 2018###
 
 #### Bats ####
 
@@ -272,6 +272,32 @@ There are about 1,326,920 or 1.32692 million bats in the world. bats have a hear
 https://en.wikipedia.org/wiki/List_of_bats_by_population
 
 https://www.cardiovascularbusiness.com/topics/lipids-metabolic/bat-can-vary-heart-rate-800-bpm
+
+###  Entry 10, December 31st###
+
+####  Odd-toed ungulates (horse like creature) ####
+
+They will be counted as one due to their similarness
+
+There are about 108,810,500 or 108.8105 million Odd-toed ungulates who breath 10 times per minute. 10 (breathing rate of Odd-toed ungulates) / 20 (breathing rate of humans) = 0.5. Since there is half tree per human: 0.5 (tree per human) x 0.5 (increase of breathing rate between Odd-toed ungulates and humans) = 0.25 (tree per Odd-toed ungulate). 108,810,500 (number of Odd-toed ungulate) x 0.25 (tree per Odd-toed ungulate) = 27,202,625 or 27.202625 million trees (for every Odd-toed ungulate on Earth).
+
+https://en.wikipedia.org/wiki/List_of_odd-toed_ungulates_by_population
+
+https://articles.extension.org/pages/27755/temperature-pulse-and-respiration-in-a-horse
+
+### Entry 11, December 31st###
+
+#### Birds ###
+
+There are about 300 billion birds today who breathe 30 times per minute. 30 (breathing rate of birds) / 20 (breathing rate of humans) = 1.5. Since there is half tree per human: 0.5 (tree per human) x 1.5 (increase of breathing rate between birds and humans) = 0.75 (tree per bird). 300,000,000,000 (number of bird) x 0.75 (tree per bird) = 225,000,000,000 or 225 billion trees (for every bird on Earth).
+
+https://www.amnh.org/explore/ology/earth/ask-a-scientist-about-our-environment/how-big-is-the-bird-population
+
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/management-of-pet-birds
+
+### Entry 11, ###
+
+####  ####
 
 ### Sources ###
 
