@@ -24,7 +24,7 @@ My goal is to get a pretty precise answer and then compare it to the number of t
 
 Every animal's breath will be taken as if they are at rest.
 
-Please email me at: louvrmat000@mysbisd.org if I forget something.
+Please email me at: matthieu.louvrier@live.com if I forget something.
 
 ### Entry 2, November, 1st ###
 
