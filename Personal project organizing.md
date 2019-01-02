@@ -70,3 +70,10 @@ Trees for every bird on Earth
 
 ### 244,750,794,025 trees. ###
 
+
+
+The current aproximation of the number of trees is 3 trillion
+
+This would make it so that the species that we are using take up 0.081583598 % of the totals oxygen tree produces.
+
+If I were to make an actual estimate I would say all land animal species use 0.1 % of the totals oxygen produced by trees since I have not listed many smaller species that could add up and I probably messed up somewhere, if you fing that spot email me @ matthieu.louvrier@live.com
