@@ -60,20 +60,4 @@ Trees for every Odd-toed ungulate (horse and horse like creatures) on Earth
 ### 225,000,000,000 ### 
 Trees for every bird on Earth
 
-225,000,000,000 + 27,202,625 + 1,658,650 + 657,250 + 57,503,000 + 375,000,000 + 787,500,000 + 750,000 + 2,000,000 + 6,619,500 +  6,278,000 + 65,625,000 + 425,000,000 + 20,000,000 + 500,000,000 + 9,975,000,000 + 750,000,000 + 2,250,000,000 + 4,500,000,000 = 244,750,794,025
-
-### 244.7508 billion trees ###
-
-### 9244,750.8 million trees ###
-
-### 9244,750,794 thousand trees ###
-
-### 244,750,794,025 trees. ###
-
-
-
 The current aproximation of the number of trees is 3 trillion
-
-This would make it so that the species that we are using take up 0.081583598 % of the totals oxygen tree produces.
-
-If I were to make an actual estimate I would say all land animal species use 0.1 % (It might even be more due to the fact that these are all restin)of the totals oxygen produced by trees since I have not listed many smaller species that could add up and I probably messed up somewhere, if you fing that spot email me @ matthieu.louvrier@live.com
