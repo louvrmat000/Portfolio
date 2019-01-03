@@ -4,6 +4,8 @@ I realized I messed up because there might be a lot of bird but...
 
 So I think weight matters... same drill exept bring it up or down making the original number of trees time XXXXX average weight / an average human's weight
 
+[Weight an lungs](https://www.ncbi.nlm.nih.gov/books/NBK218080/)
+
 #### Humans: January 2nd ####
 
 4,500,000,000 trees stay the same 4 humans
@@ -22,11 +24,11 @@ https://www.beautyofbirds.com/AverageBirdWeights.htm
 
 #### chikens: January 2nd ####
 
-9,975,000,000 x (12/195.7) = 9,975,000,000 x 0.0613183444 = 611,50,00
+9,975,000,000 x (1.4/195.7) = 9,975,000,000 x 0.00715380684 = 71,359,200
 
-(most used breed of chiken is Cornish Cross who weights) 12 pounds
+(most used breed of chiken is Sebright chicken who weights) 1.4 pounds
 
-https://morningchores.com/meat-chickens/
+https://www.google.com/search?safe=active&q=chicken+mass&stick=H4sIAAAAAAAAAONgFuLQz9U3ME4rz1ECsyyTTEu05PyL0hPzMotznXMSi4sz0zKTE0sy8_OCM1NSyxMrixcxamQnW-knZebn5KdX6udDFccno6i2ygXyAHctH1thAAAA&sa=X&ved=2ahUKEwig76DW4tLfAhXLmq0KHSi-DiwQxA0wA3oECAsQEA&biw=1381&bih=1342
 
 #### cows: January 2nd ####
 
@@ -36,6 +38,54 @@ cattle's/cow average weight: 2400 for male and 1600 for females (there are way m
 
 google.com
 
+#### dogs: January 3rd ####
+
+787,500,000 x (67.25/195.7) = 787,500,000 x 0.34363822176 = 270,615,100
+
+67.25 pounds is the average weight of a Labrador Retriever, the most common breed of dogs
+
+https://www.google.com/search?safe=active&biw=1381&bih=1342&ei=HpcuXIigEITKsQWUua7YCQ&q=dog+Labrador+Retriever+weight&oq=dog+Labrador+Retriever+weight&gs_l=psy-ab.3..33i22i29i30l10.6382.9328..9456...2.0..0.82.665.9......0....1..gws-wiz.......0i71j0i22i30j0i8i13i30.wU6UH1RASDw
+
+#### Pigs: January 3rd ####
+
+750,000,000 x (750/195.7) = 750,000,000 x 3.83239652529 = 2,874,297,400
+
+750 pounds is the average weight of a comercial pig (the large black pig)
+
+https://www.google.com/search?safe=active&sa=X&biw=1381&bih=1342&q=domestic+pig+mass&stick=H4sIAAAAAAAAAONgFuLQz9U3ME4rz1HiBLHMLQqTDLTk_IvSE_Myi3OdcxKLizPTMpMTSzLz84IzU1LLEyuLFzFqZCdb6Sdl5ufkp1fq50MVxyejqLbKBfIAfvVtdmIAAAA&npsic=-512&ved=0ahUKEwjL1q-s49LfAhUO7awKHXChBHMQ-BYIRA
+
+#### Sheeps: January 3rd ####
+
+500,000,000 x (192/195.7) = 500,000,000 x 0.98109351047 = 490,546,800
+
+192 pounds is the average weight of a sheep
+
+https://www.google.com/search?q=average+weight+of+a+sheep&oq=average+weight+of+a+sheep&aqs=chrome..69i57j0l5.5740j0j9&sourceid=chrome&ie=UTF-8
+
+#### Goats: January 2nd ####
+
+425,000,000 x (177/195.7) = 425,000,000 x 0.90444557996 = 384,389,371
+
+177 pounds is the average weight of a goat
+
+
+
+#### : January ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
 #### Seals: January 2nd ####
 
 57,503,000 x (200/195.7) = 57,503,000 x 1.02197240675 = 58,766,500 trees
@@ -43,4 +93,70 @@ google.com
 Average weight of a any seal is about 200 pounds
 
 https://www.google.com/search?safe=active&q=Harbor+seal&stick=H4sIAAAAAAAAAONgFuLQz9U3SE8xzlPiBLGMciwKLLU0spOt9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscoG8R4zJ3AIvf9wTloqatObkNcYQLqK1CqlwsbnmlWSWVApJcfFIwd2hwSDFxQXnWTFJMPIAAMnI8bOnAAAA&sa=X&ved=0ahUKEwjGq6mZitDfAhVIT6wKHfp7DBAQri4ILA
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+#### : January  ####
+
+
+
+
+
+
+
+
 
