@@ -1,10 +1,12 @@
-I realized I messed up because there might be a lot of bird but...
+I realized I have messed up because there might be a lot of bird but...
 
 ![alt text](meta-chart.jpeg)
 
 So I think weight matters... same drill exept bring it up or down making the original number of trees time XXXXX average weight / an average human's weight
 
 [Weight an lungs](https://www.ncbi.nlm.nih.gov/books/NBK218080/)
+
+"in all cases the surface areas of the [lungs] vary with body mass exponents (b) near 1.0"
 
 #### Humans: January 2nd ####
 
@@ -68,15 +70,15 @@ https://www.google.com/search?q=average+weight+of+a+sheep&oq=average+weight+of+a
 
 177 pounds is the average weight of a goat
 
+https://www.google.com/search?safe=active&ei=b7cvXPPpFor4tAXBipKgDw&q=what+is+the+weight+of+a+goat&oq=what+is+the+weight+of+a+goat&gs_l=psy-ab.3..0j0i22i30l5.2229.3171..3461...0.0..0.119.389.2j2......0....1..gws-wiz.......0i71j35i39.fsgaR8dAC3E
 
+#### cats: January 4th####
 
-#### : January ####
+375,000,000 x (8.9/192) = 375,000,000 x 0.04635416666 = 17,382,800
 
+the average weight of cats is 8.9 pounds
 
-
-
-
-
+https://www.google.com/search?safe=active&ei=c7cvXIO1KI_isAWNk6bIDQ&q=what+is+the+weight+of+a+cat&oq=what+is+the+weight+of+a+cat&gs_l=psy-ab.3..0l6j0i22i30l4.160276.160856..161024...0.0..0.102.301.1j2......0....1..gws-wiz.......0i71.RUqQ7brvC9c
 
 #### : January  ####
 
