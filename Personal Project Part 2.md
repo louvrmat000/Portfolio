@@ -14,7 +14,7 @@ Average weight of: 195.7 pounds or 88.768 kg
 
 https://www.medicalnewstoday.com/articles/320917.php
 
-#### Birds: January 2nd ####  <---- most change
+#### Birds: January 2nd <---- most change ####
 
 225,000,000,000 x (0.0575/88.768) = 225,000,000,000 x 0.00064775594 = 145,745,100 trees
 
