@@ -32,7 +32,7 @@ https://www.google.com/search?safe=active&q=chicken+mass&stick=H4sIAAAAAAAAAONgF
 
 #### Cows: January 2nd ####
 
-2,250,000,000 x (1800/195.7) = 2,250,000,000 x 9.19775166071 = 20,694,941,236 trees
+2,250,000,000 x (1800/195.7) = 2,250,000,000 x 9.19775166071 = 20,694,941,200 trees
 
 cattle's/cow average weight: 2400 for male and 1600 for females (there are way more females than males cow in general which explains 1800 instead of 2000)
 
@@ -64,7 +64,7 @@ https://www.google.com/search?q=average+weight+of+a+sheep&oq=average+weight+of+a
 
 #### Goats: January 2nd ####
 
-425,000,000 x (177/195.7) = 425,000,000 x 0.90444557996 = 384,389,371 trees
+425,000,000 x (177/195.7) = 425,000,000 x 0.90444557996 = 384,389,400 trees
 
 177 pounds is the average weight of a goat
 
