@@ -96,9 +96,9 @@ https://www.google.com/search?safe=active&q=Harbor+seal&stick=H4sIAAAAAAAAAONgFu
 
 #### Odd-toed ungulate: January 4th ####
 
-27,202,625 x (1520/195.7) = 27,202,625 x 7.76699029126 = 211,282,500 trees
+27,202,625 x (1200/195.7) = 27,202,625 x 6.13183444047 = 166,802,000 trees
 
-1520 pounds is the average weight for a horse
+1200 pounds is the average weight for a horse
 
 https://www.google.com/search?safe=active&ei=b7ovXM-7JdG4sQX3qaagCA&q=what+is+the+weight+of+a+horse+&oq=what+is+the+weight+of+a+horse+&gs_l=psy-ab.3..0j0i22i30l8j0i22i10i30.406830.410605..415487...2.0..0.168.911.3j5......0....1..gws-wiz.......0i71.0ufRkncyA7Y
 
