@@ -1,60 +1,60 @@
-## Trees per species after part 1 (false): ##
+## Trees per species so far: ##
 
-### 225,000,000,000 ### 
+### 145,745,100 ### 
 Trees for every bird on Earth
 
-### 9,975,000,000 #### 
+### 71,359,200 #### 
 Trees for chikens
 
 ### 4,500,000,000 #### 
 Trees per human
 
-### 2,250,000,000 #### 
+### 20,694,941,200 #### 
 Trees for cows
 
-### 787,500,000 ### 
+### 270,615,100 ### 
 Trees for ever dog on Earth
 
-### 750,000,000 #### 
+### 2,874,297,400 #### 
 Trees for pigs
 
-### 500,000,000 #### 
+### 490,546,800 #### 
 Trees for sheeps
 
-### 425,000,000 ### 
+### 384,389,400 ### 
 trees for goats
 
-### 375,000,000 ### 
+### 17,054,200 ### 
 Trees for every cat on Earth
 
-### 65,625,000 ### 
+### 435,096,800 ### 
 trees for buffaloes
 
-### 57,503,000 ### 
+### 58,766,500 ### 
 Trees for every seal on Earth
 
-### 27,202,625 ###
+### 166,802,000 ###
 Trees for every Odd-toed ungulate (horse and horse like creatures) on Earth
 
-### 20,000,000 #### 
+### 108,329,100 #### 
 Trees for camels
 
-### 6,619,500 ### 
+### 1,150,000 ### 
 Trees for every duiker on Earth
 
-### 6,278,000 ### 
+### 9,463,500 ### 
 trees for dears
 
-### 2,000,000 ### 
+### 442,000 ### 
 Trees for every gazelle on Earth
 
-### 1,658,650 ### 
+### 300 ### 
 Trees for every bat on Earth
 
-### 750,000 ### 
+### 3,420,400 ### 
 Trees for every moose on Earth
 
-### 657,250 ###
+### 2,275,400 ###
 Trees for every bear on Earth
 
 
