@@ -57,4 +57,9 @@ Trees for every moose on Earth
 #### 657,250
 Trees for every bear on Earth
 
+### resulting diagram
+
+![Alt Text](Part_1.pneg)
+
+
 ### [To part 2 because there is a problem](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20Project%20Part%202.md) ###
