@@ -68,7 +68,7 @@ The current aproximation of the number of trees is 3 trillion or 3,000,000,000,0
 
 Still roughtly the same overall percentage as with part 1, exept now it makes way more sense, a cow uses way more as everyone which makes sense considering how many they are and how heavy they are.
 
-#### KEEP IN MIND THIS IS IF ALL ANIMALS ARE RESTING, it may be way more our breathing rate more than double when we, humans are exercising####
+#### KEEP IN MIND THIS IS IF ALL ANIMALS ARE RESTING, it may be way more our breathing rate more than double when we, humans are exercising ####
 
 I think it is more likely for us to use 2 % as I forgot many animals and probably got something incorrect, if you know what that thing is email me @: Matthieu.louvrier@live.com
 
