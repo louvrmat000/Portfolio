@@ -74,4 +74,4 @@ I think it is more likely for us to use 3 % when we include all other species.
 
 https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
 
-![alt text](Part_2.jpeg)
+![alt text](image.png)
