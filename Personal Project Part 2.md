@@ -2,7 +2,7 @@ I think weight matters more than I previously thought... same drill exept bring 
 
 ### Why weight? ###
 
-[Weight an lungs](https://www.ncbi.nlm.nih.gov/books/NBK218080/)
+[Weight and lungs](https://www.ncbi.nlm.nih.gov/books/NBK218080/)
 
 "in all cases the surface areas of the [lungs] vary with body mass exponents (b) near 1.0"
 
