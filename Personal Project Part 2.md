@@ -158,7 +158,4 @@ The average weight of a bear is 677.5 pounds
 
 https://www.google.com/search?safe=active&ei=3cAvXJqFK5DKsQXXlJSICg&q=what+is+the+average+weight+of+bears&oq=what+is+the+average+weight+of+bears&gs_l=psy-ab.3..0i22i30l8.176233.176814..176956...0.0..0.103.489.3j2......0....1..gws-wiz.......0j0i71.QE_jL89eofk
 
-#### Reasults January 5th ####
-
-
-
+# [Part 2 results](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20project%20part%202%20results.md) #
