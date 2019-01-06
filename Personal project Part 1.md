@@ -287,11 +287,7 @@ https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/managemen
 
 ### Entry 11, January 2nd ###
 
-#### Results ####
-
-![Alt text](Part_1.jpeg)
-
-[Next step](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20Project%20Part%202.md)
+## [Results](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20project%20part%201%20results.md) ##
 
 ### Sources ###
 
