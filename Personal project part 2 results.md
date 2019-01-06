@@ -13,49 +13,49 @@ Trees for pigs
 Trees for sheeps
 
 ### 435,096,800 ### 
-trees for buffaloes
+Trees for buffaloes
 
 ### 384,389,400 ### 
-trees for goats
+Trees for goats
 
 ### 270,615,100 ### 
-Trees for ever dog on Earth
+Trees for dogs 
 
 ### 166,802,000 ###
-Trees for every Odd-toed ungulate (horse and horse like creatures) on Earth
+Trees for odd-toed ungulates (horses and horse-like creatures)
 
 ### 145,745,100 ### 
-Trees for every bird on Earth
+Trees for birds
 
 ### 108,329,100 #### 
 Trees for camels
 
 ### 71,359,200 #### 
-Trees for chikens
+Trees for chickens
 
 ### 58,766,500 ### 
-Trees for every seal on Earth
+Trees for seals
 
 ### 17,054,200 ### 
-Trees for every cat on Earth
+Trees for cats 
 
 ### 9,463,500 ### 
-trees for dears
+Trees for deers
 
 ### 3,420,400 ### 
-Trees for every moose on Earth
+Trees for mooses
 
 ### 2,275,400 ###
-Trees for every bear on Earth
+Trees for bears
 
 ### 1,150,000 ### 
-Trees for every duiker on Earth
+Trees for duikers
 
 ### 442,000 ### 
-Trees for every gazelle on Earth
+Trees for gazelles
 
 ### 300 ### 
-Trees for every bat on Earth
+Trees for bats
 
 # Conclusion #
 
@@ -68,9 +68,9 @@ The current aproximation of the number of trees is 3 trillion or 3,000,000,000,0
 
 Still roughtly the same overall percentage as with part 1, exept now it makes way more sense, a cow uses way more as everyone which makes sense considering how many they are and how heavy they are.
 
-#### KEEP IN MIND THIS IS IF ALL ANIMALS ARE RESTING, it may be way more our breathing rate more than double when we, humans are exercising ####
+#### KEEP IN MIND THIS IS IF ALL ANIMALS ARE RESTING, it may be way more as our breathing rate more than double when we, humans are exercising ####
 
-I think it is more likely for us to use 2 % as I forgot many animals and probably got something incorrect, if you know what that thing is email me @: Matthieu.louvrier@live.com
+I think it is more likely for us to use 3 % when we include all other species.
 
 https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
 
