@@ -4,7 +4,7 @@
 Trees for cows
 
 ### 4,500,000,000 #### 
-Trees per human
+Trees for humans
 
 ### 2,874,297,400 #### 
 Trees for pigs
