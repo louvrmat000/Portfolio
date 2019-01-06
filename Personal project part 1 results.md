@@ -62,4 +62,4 @@ Trees for every bear on Earth
 ![Alt Text](Part_1.jpeg)
 
 
-### [To part 2 because there is a problem](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20Project%20Part%202.md) ###
+# [To part 2 because there is a problem: Weight](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20Project%20Part%202.md) #
