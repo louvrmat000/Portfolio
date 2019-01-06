@@ -59,7 +59,7 @@ Trees for all bears
 
 ### resulting diagram
 
-![Alt Text](Part_1.jpeg)
+![Alt Text](image.png)
 
 
 # [To part 2 because there is a problem: Weight](https://github.com/louvrmat000/Portfolio/blob/master/Personal%20Project%20Part%202.md) #
