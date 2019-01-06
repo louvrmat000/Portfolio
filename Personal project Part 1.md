@@ -14,13 +14,13 @@ I WILL be ignoring other photosynthetic plants.
 
 I WILL not be subtracting oxygen for plants or vegetation as they produce their oxygen (except trees).
 
-I WILL not be counting sea creatures (including crabs, lobsters, alligators, etc.) (they have algue).
+I WILL not be counting sea creatures (including crabs, lobsters, alligators, etc.) (they have algae).
 
 I WILL not be counting insects.
 
-My goal is not to get every species of animals but rather the ones who have an impact (at least 1,000,000 + individuals)
+My goal is not to get all species of animals but rather the ones who have an impact (at least 1,000,000+ individuals)
 
-My goal is to get a pretty precise answer and then compare it to the number of trees currently.
+My goal is to get a pretty precise answer and then compare it to the current number of trees.
 
 Every animal's breath will be taken as if they are at rest.
 
@@ -32,11 +32,11 @@ Please email me at: matthieu.louvrier@live.com if I forget something.
 
 Explain and justify the need:
 
-We need to able to say that we do or don't have enought trees for our planet, especially if we don't have enought because we would slowly run out of oxygen and many of us would asfixiate.
+We need to be able to say that we do or don't have enought trees for our planet, especially if we don't have enough because we would slowly run out of oxygen and many of us would asphyxiate.
 
 Identify and Prioritise research:
 
-I need a reliable source to tell me about animals and how much are there telling me how important they are. Next comes the research about how they breathe.
+I need a reliable source to tell me about animals: description and current population. Next comes the research about how they breathe.
 
 Analyse existing product:
 
@@ -46,22 +46,22 @@ Develop a design brief:
 
 Target Consumer: Anyone who will hear and listen
 
-Problem Statement: We humans are in charge of Earth, most of the time we control what happens on this planet and so it is also our duty to protect it and to make sure the planet does not suffer espeicially by our hands, making it lack oxygen is the worst because we will be affecting in a bad way all multicellular organisms!
+Problem Statement: We humans are in charge of Earth, most of the time we control what happens on this planet and so it is also our duty to protect it and to make sure the planet does not suffer especially by our hands, making it lacking oxygen is the worst because we will be affecting in a bad way all multicellular organisms!
 
-Design statement: I will continue and build up a website that desplay the ammount of oxygen needed for our current animal population.
+Design statement: I will continue and build up a website that display the amount of oxygen needed for our current animal population.
 
 
 ### Criterion B: Planning ###
 
 Develop a design specification:
 
-Display a number of trees, has entries staiting what I did and why
+Display a number of trees, has entries stating what I did and why
 
 Develop Design ideas:
 
 Have a big number, small entries
 
-have a small number but bigger entries
+Have a small number but bigger entries
 
 Present the the chosen design:
 
@@ -76,13 +76,13 @@ Develop planning drawings or diagrams:
 
 ### Criterion C: Creating the solution ###
 
-changes: 
+Changes: 
 
 - I switched it from life to only animal species on land due to intervening factors like photosynthetic plant, tiny bugs and sea animals
 
-follow the plan to make the solution:
+Follow the plan to make the solution:
 
-- I am steadily working towords my goal by working a little bit by a little bit
+- I am steadily working towards my goal by working a little bit by a little bit
 
 Demonstrating technical skills:
 
@@ -94,7 +94,7 @@ Demonstrating technical skills:
 
 Construct a logical plan:
 
-- work with big animal population, work my way down so I don't spend more time than needed on something with a population 1,000,000 while I haven't done humans.
+- work with big animal population, work my way down so I don't spend more time than needed on something with a population of 1,000,000 while I haven't done humans.
 
 - get as close to the result as possible and make my personal project poster board.
 
@@ -112,7 +112,7 @@ How could it be improved:
 
 Success of the solution:
 
-- It might get people to care about and plant trees
+- It might get people to care about plant and trees
 
 Design, Testing, Methods Development, Planning:
 
@@ -120,7 +120,7 @@ Design, Testing, Methods Development, Planning:
 
 - I tested multiple sources and found the best
 
-- My methods could be improved however with my reasources I think this is the best.
+- My methods could be improved however with my ressources I think this is the best.
 
 - I planned to do the biggest animals first then work my way down
 
@@ -136,16 +136,16 @@ On average a tree produces 260 pounds of oxygen each year, or enough oxygen for 
 
 ### Entry 4, October 26, 2018 ###
 
-Second, the most important animal, humans, how much oxygen do they breathe?
+Second, the biggest population of animals, humans, how much oxygen do they breathe?
 
 Humans use 7-8 liters a minute while resting. However since the air is 20% oxygen and our breath is 15% oxygen, we consume 5% of it or 1/4 of the oxygen in that air therefore out of 100% of air swallowed only 5% is used. 11000 (100% of the air breathed in) x 5% (oxygen used) = 550 liters.
 
-A tree produces 260 pounds of oxygen each year. A human uses 550 litters a day x 365 (days in a year) is about 200750 liters a year. A tree produces enough oxygen for two people, so a tree produces about 401500 liters (200750 x 2) a year or 1100 litters (401500 / 360) a day.
+A tree produces 260 pounds of oxygen each year. A human uses 550 liters a day x 365 (days in a year) is about 200750 liters a year. A tree produces enough oxygen for two people, so a tree produces about 401500 liters (200750 x 2) a year or 1100 liters (401500 / 360) a day.
 
 [The link for this info](https://www.sharecare.com/health/air-quality/oxygen-person-consume-a-day)
 
 80 (average human heartbeat per minute) / 20 (average human breathing rate) = 4 (ratio of repiration rate to heart beat)
-Only be used when I don't know the repiration rate.;
+Only be used when I don't know the repiration rate.
 
 https://biology.stackexchange.com/questions/20703/what-is-the-ratio-of-breathing-rate-to-heart-rate
 
@@ -155,11 +155,11 @@ https://biology.stackexchange.com/questions/20703/what-is-the-ratio-of-breathing
 
 There are 3.04 trillion or 3,000,000,000,000 trees in the world.
 
-There are about 7.6 billion or 7,600,000,000 people on Earth now however, the human population is growing rapidly and it is estimated to be 9 billion in as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
+There are about 7.6 billion or 7,600,000,000 people on Earth now however, the human population is growing rapidly and it is estimated to be 9 billion as soon as 2050 so I will use 9 billion rather than 7.6 billion. Since for every human half a tree is needed, 9,000,000,000 (number of humans estimated for 2050) x 0.5 (trees per human ratio) = 4,500,000,000 or 4.5 billion trees.
 
 ### Entry 7, december 2nd - december 9th 2018###
 
-#### Most abundant mamals ####
+#### Most abundant mammals ####
 
 Today there are about 1.5 billion cows on Earth who breathe 60 times per minute. 60 (breathing rate of cows) / 20 (breathing rate of humans) = 3. Since there is half tree per human: 0.5 (tree per human) x 1.25 (increase of breathing rate between cows and humans) = 1.5 (tree per cow). 1,500,000,000 (number of cows) x 1.5 (tree per cow) = 2,250,000,000 or 2.25 billion trees (for every cow on Earth).
 
@@ -203,13 +203,13 @@ https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.quora.com/How-many-times-do-different-animals-breathe-in-1-minute
 
-There are about 12,556,438 deers on Earth who breath 20 times per minute. As deers respiration rate is the same as humans' they both use half a tree each. 12,556,438 (number of deers) x 0.5 (rate of tree per deer) = 6,278,219 or 6.278219 million trees are needed for every deer on Earth.
+There are about 12,556,438 deers on Earth who breath 20 times per minute. As deers' respiration rate is the same as humans' they both use half a tree each. 12,556,438 (number of deers) x 0.5 (rate of tree per deer) = 6,278,219 or 6.278219 million trees are needed for every deer on Earth.
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
 https://www.wideopenspaces.com/11-fawn-facts-might-not-known-pics/
 
-There are about 13.239 million duikers on Earth who breath 20 times a minute. Since duiker's breathing rate is the same as humans the tree to duiker ratio is 0.5 so 13,239,000 x 0.5 = 6,619,500 or about 6.6 million tree (for every duiker on Earth).
+There are about 13.239 million duikers on Earth who breath 20 times a minute. Since duikers' breathing rate is the same as humans the tree to duiker ratio is 0.5 so 13,239,000 x 0.5 = 6,619,500 or about 6.6 million tree (for every duiker on Earth).
 
 https://en.wikipedia.org/wiki/List_of_even-toed_ungulates_by_population
 
@@ -227,7 +227,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/6530720
 
 ### Entry 8, december 2nd - december 9th 2018###
 
-#### Most ambundent carnivorans ####
+#### Most abundant carnivores ####
 
 There are about 900 million dogs in the world who breath 35 times per minute. 35 (breathing rate of dogs) / 20 (breathing rate of humans) = 1.75. Since there is half tree per human: 0.5 (tree per human) x 1.75 (increase of breathing rate between dogs and humans) = 0.875 (tree per dog). 900,000,000 (number of dogs) x 0.875 (tree per dog) = 787,500,000 or 787.5 million trees (for every dog on Earth).
 
@@ -265,11 +265,11 @@ https://www.cardiovascularbusiness.com/topics/lipids-metabolic/bat-can-vary-hear
 
 ###  Entry 10, December 31st###
 
-####  Odd-toed ungulates (horse like creature) ####
+####  Odd-toed ungulates (horse-like creature) ####
 
-They will be counted as one due to their similarness
+They will be counted as one due to their similarness.
 
-There are about 108,810,500 or 108.8105 million Odd-toed ungulates who breath 10 times per minute. 10 (breathing rate of Odd-toed ungulates) / 20 (breathing rate of humans) = 0.5. Since there is half tree per human: 0.5 (tree per human) x 0.5 (increase of breathing rate between Odd-toed ungulates and humans) = 0.25 (tree per Odd-toed ungulate). 108,810,500 (number of Odd-toed ungulate) x 0.25 (tree per Odd-toed ungulate) = 27,202,625 or 27.202625 million trees (for every Odd-toed ungulate on Earth).
+There are about 108,810,500 or 108.8105 million odd-toed ungulates who breath 10 times per minute. 10 (breathing rate of odd-toed ungulates) / 20 (breathing rate of humans) = 0.5. Since there is half tree per human: 0.5 (tree per human) x 0.5 (increase of breathing rate between odd-toed ungulates and humans) = 0.25 (tree per Odd-toed ungulate). 108,810,500 (number of odd-toed ungulate) x 0.25 (tree per odd-toed ungulate) = 27,202,625 or 27.202625 million trees (for every odd-toed ungulate on Earth).
 
 https://en.wikipedia.org/wiki/List_of_odd-toed_ungulates_by_population
 
