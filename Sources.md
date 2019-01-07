@@ -100,20 +100,6 @@ Helmenstine, Anne Marie, and Helmenstine. “How Much Oxygen Does One Tree Produ
 
 “Lists of Organisms by Population.” Wikipedia, Wikimedia Foundation, 30 Dec. 2018, en.wikipedia.org/wiki/Lists_of_organisms_by_population. 
 
-Lopez-Terrill, Vicky. “Animal List A to Z.” Colorado State University Libraries, lib2.colostate.edu/wildlife/atoz.php?letter=ALL. 
-
-“Management of Pet Birds - Exotic and Laboratory Animals.” Merck Veterinary Manual, www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/management-of-pet-birds. 
-
-Misachi, John. “How Many Chickens Are There In The World?” World Atlas, Worldatlas, 17 Jan. 2018, www.worldatlas.com/articles/how-many-chickens-are-there-in-the-world.html. 
-
-National Research Council (US) Subcommittee on Pharmacokinetics in Risk Assessment. “Allometry: Body Size Constraints in Animal Design.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, 1 Jan. 1987, www.ncbi.nlm.nih.gov/books/NBK218080/. 
-
-“Temperature, Pulse and Respiration in a Horse.” EXtension, articles.extension.org/pages/27755/temperature-pulse-and-respiration-in-a-horse.
-
-“What Is a Dromedary?” Wonderopolis, wonderopolis.org/wonder/what-is-a-dromedary.
-
- “What Is the Normal Heart and Repiratory Rate for Pigs?” EXtension, articles.extension.org/pages/55505/what-is-the-normal-heart-and-repiratory-rate-for-pigs.
-
 https://www.quora.com/How-many-sheep-are-there-in-the-world
 
 www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
@@ -127,3 +113,17 @@ https://www.quora.com/How-many-dogs-are-there-in-the-world
 https://www.quora.com/How-many-cats-are-in-the-world
 
 https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
+
+Lopez-Terrill, Vicky. “Animal List A to Z.” Colorado State University Libraries, lib2.colostate.edu/wildlife/atoz.php?letter=ALL. 
+
+“Management of Pet Birds - Exotic and Laboratory Animals.” Merck Veterinary Manual, www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/management-of-pet-birds. 
+
+Misachi, John. “How Many Chickens Are There In The World?” World Atlas, Worldatlas, 17 Jan. 2018, www.worldatlas.com/articles/how-many-chickens-are-there-in-the-world.html. 
+
+National Research Council (US) Subcommittee on Pharmacokinetics in Risk Assessment. “Allometry: Body Size Constraints in Animal Design.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, 1 Jan. 1987, www.ncbi.nlm.nih.gov/books/NBK218080/. 
+
+“Temperature, Pulse and Respiration in a Horse.” EXtension, articles.extension.org/pages/27755/temperature-pulse-and-respiration-in-a-horse.
+
+“What Is a Dromedary?” Wonderopolis, wonderopolis.org/wonder/what-is-a-dromedary.
+
+ “What Is the Normal Heart and Repiratory Rate for Pigs?” EXtension, articles.extension.org/pages/55505/what-is-the-normal-heart-and-repiratory-rate-for-pigs.
