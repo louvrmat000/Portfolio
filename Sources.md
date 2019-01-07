@@ -28,6 +28,20 @@ Google Search, Google, www.google.com/search?safe=active&ei=DL0vXL-oLsiEtQW0n5XQ
 
 Google Search, Google, www.google.com/search?safe=active&ei=FbgvXJKQLciesQW-7Kj4Aw&q=what%2Bis%2Bthe%2Bweight%2Bof%2Ba%2Bbuffalo&oq=what%2Bis%2Bthe%2Bweight%2Bof%2Ba%2Bbuff&gs_l=psy-ab.3.0.0j0i22i30l4.598182.598983..600946...0.0..0.136.443.1j3......0....1..gws-wiz.......0i71.Om0srfEoe-Y. 
 
+https://www.quora.com/How-many-sheep-are-there-in-the-world
+
+www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
+
+https://www.quora.com/How-many-times-do-different-animals-breathe-in-1-minute
+
+https://www.vaajournal.org/article/S1467-2987(17)30200-3/fulltext
+
+https://www.quora.com/How-many-dogs-are-there-in-the-world
+
+https://www.quora.com/How-many-cats-are-in-the-world
+
+https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
+
 Google Search, Google, www.google.com/search?safe=active&ei=fr0vXIeeMsaGsQW2zrXIBg&q=average%2Bweight%2Bof%2Ba%2Bdear&oq=average%2Bweight%2Bof%2Ba%2Bdear&gs_l=psy-ab.3..0i10l2.135910.136567..136782...0.0..0.114.367.3j1......0....1..gws-wiz.......0j0i71j35i39j0i22i30j0i20i263.mPpPC3e8FT4. 
 
 Google Search, Google, www.google.com/search?safe=active&ei=q78vXJC3M4risAXUg4aICw&q=what%2Bis%2Bthe%2Baverage%2Bweight%2Bof%2Ba%2Bbat&oq=what%2Bis%2Bthe%2Baverage%2Bweight%2Bof%2Ba%2Bbat&gs_l=psy-ab.3..0l2j0i22i30l8.76195.76490..76811...0.0..0.106.310.0j3......0....1..gws-wiz.......0i71.raX_j6O2kMw. 
@@ -99,20 +113,6 @@ Helmenstine, Anne Marie, and Helmenstine. “How Much Oxygen Does One Tree Produ
 “List of Odd-Toed Ungulates by Population.” Wikipedia, Wikimedia Foundation, 28 May 2018, en.wikipedia.org/wiki/List_of_odd-toed_ungulates_by_population. 
 
 “Lists of Organisms by Population.” Wikipedia, Wikimedia Foundation, 30 Dec. 2018, en.wikipedia.org/wiki/Lists_of_organisms_by_population. 
-
-https://www.quora.com/How-many-sheep-are-there-in-the-world
-
-www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
-
-https://www.quora.com/How-many-times-do-different-animals-breathe-in-1-minute
-
-https://www.vaajournal.org/article/S1467-2987(17)30200-3/fulltext
-
-https://www.quora.com/How-many-dogs-are-there-in-the-world
-
-https://www.quora.com/How-many-cats-are-in-the-world
-
-https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
 
 Lopez-Terrill, Vicky. “Animal List A to Z.” Colorado State University Libraries, lib2.colostate.edu/wildlife/atoz.php?letter=ALL. 
 
