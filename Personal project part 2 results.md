@@ -70,7 +70,7 @@ Still roughtly the same overall percentage as with part 1, exept now it makes wa
 
 #### KEEP IN MIND THIS IS IF ALL ANIMALS ARE RESTING, it may be way more as our breathing rate more than double when we, humans are exercising ####
 
-I think it is more likely for us to use 3 % when we include all other species.
+I think it is more likely for us to use 3 % when we include all other species and consider activity.
 
 https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
 
