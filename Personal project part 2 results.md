@@ -72,6 +72,8 @@ Still roughtly the same overall percentage as with part 1, exept now it makes wa
 
 I think it is more likely for us to use 3 % when we include all other species and consider activity.
 
+3% x 3,000,000,000,000 = 90,000,000,000 trees.
+
 https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
 
 ![alt text](image.png)
