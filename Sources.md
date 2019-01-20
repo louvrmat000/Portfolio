@@ -28,19 +28,29 @@ Google Search, Google, www.google.com/search?safe=active&ei=DL0vXL-oLsiEtQW0n5XQ
 
 Google Search, Google, www.google.com/search?safe=active&ei=FbgvXJKQLciesQW-7Kj4Aw&q=what%2Bis%2Bthe%2Bweight%2Bof%2Ba%2Bbuffalo&oq=what%2Bis%2Bthe%2Bweight%2Bof%2Ba%2Bbuff&gs_l=psy-ab.3.0.0j0i22i30l4.598182.598983..600946...0.0..0.136.443.1j3......0....1..gws-wiz.......0i71.Om0srfEoe-Y. 
 
-https://www.quora.com/How-many-sheep-are-there-in-the-world
+Zeiler, Gareth E., and Leith C. R. Meyer. "Chemical capture of impala (Aepyceros 
+     melampus): A review of factors contributing to morbidity and mortality." 
+     Veterinary Anesthesia and Analgesia, © 2017 Association of Veterinary 
+     Anaesthetists and American College of Veterinary Anesthesia and Analgesia. 
+     Published by Elsevier Ltd. All rights reserved., Sept. 2017, 
+     www.vaajournal.org/article/S1467-2987(17)30200-3/fulltext. Accessed 20 Jan. 
+     2019. 
+     
+"Respiratory Responses to Exercise." ptdirect, Copyright © 2010 - 2019 PT 
+     Direct. All rights reserved. Accessed 20 Jan. 2019. 
+     
+Bryan, Tracey. "How Many Sheep Are There in the World?" Quora, 3 Dec. 2016, 
+     www.quora.com/How-many-sheep-are-there-in-the-world. Accessed 19 Jan. 2019. 
+    
+Beckmann, Roger. How the camel keeps its cool. 
 
-www.ecosmagazine.com/?act=view_file&file_id=EC61p15.pdf
+Anonymous. "How many times do different animals breathe in 1 minute?" Quora, 24 Aug. 
+           2017, www.quora.com/ 
+           How-many-times-do-different-animals-breathe-in-1-minute. Accessed 20 Jan. 
+           2019. 
 
-https://www.quora.com/How-many-times-do-different-animals-breathe-in-1-minute
-
-https://www.vaajournal.org/article/S1467-2987(17)30200-3/fulltext
-
-https://www.quora.com/How-many-dogs-are-there-in-the-world
-
-https://www.quora.com/How-many-cats-are-in-the-world
-
-https://www.ptdirect.com/training-design/anatomy-and-physiology/acute-respiratory-responses
+Anonymous. "How many dogs are there in the world?" Quora, 12 Aug. 2018. Accessed 
+     20 Jan. 2019. 
 
 Google Search, Google, www.google.com/search?safe=active&ei=fr0vXIeeMsaGsQW2zrXIBg&q=average%2Bweight%2Bof%2Ba%2Bdear&oq=average%2Bweight%2Bof%2Ba%2Bdear&gs_l=psy-ab.3..0i10l2.135910.136567..136782...0.0..0.114.367.3j1......0....1..gws-wiz.......0j0i71j35i39j0i22i30j0i20i263.mPpPC3e8FT4. 
 
