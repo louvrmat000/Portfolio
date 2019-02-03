@@ -4,7 +4,11 @@ I started my project today, and I thought a good topic would be about how many t
 
 
 
-### ###
+### November 10th, 2018 ###
+
+Today I started working more seriously on my project, thanks partly to my parents who told me to get on with it so I could be done with it, So from today on I will work at least two hours per weekend which is completly resonable and will allow me to finish my project way before the due deadline. Today I also found some nice sources that will help me with my project in terms of what I need to do and how I will do it.
+
+### december 16th, 2018 ###
 
 
 
@@ -17,4 +21,4 @@ Today I have started the review paper, last week I finish the fun part of the pr
 
 ### January 21st, 2019 ###
 
-Today I finished doing my sources, in a word document thanks to the export to word function noodletools and easybib have
+Today I finished citing my sources, in a word document thanks to the export to word function noodletools and easybib have
