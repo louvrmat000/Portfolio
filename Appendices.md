@@ -62,3 +62,9 @@ Today I have started the review paper, last week I finish the fun part of the pr
 ### January 21st, 2019 ###
 
 Today I finished citing my sources, in a word document thanks to the export to word function noodletools and easybib have
+
+### February 10th, 2019 ###
+
+Since my report is due and I need to do a lot in a short period of time, I have decided to go back on my design criteria and evaluate myself, on wether or not it has been achieved.
+
+DONE ON REPORT
