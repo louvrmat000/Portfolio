@@ -6,25 +6,37 @@ I started my project today, and I thought a good topic would be about how many t
 
 Today I sat down and decide to know what actually made my project was actually about and what I was going to do
 
+#### divider
+
 Get to know the number of trees needed to sustain us
 
 Get to the end of the project and get an answer.
+
+#### divider
 
 Get an answer that comes for calculations rather then imagination          
 
 My work needs to be credible, and the only way is with math.
 
+#### divider
+
 Get only important animals and don't worry about others                    
 
 There are many animals however, I only have time for so many.
+
+#### divider
 
 Make a good conclusion that makes people want to act                       
 
 I need to get my message across, and get people acting.
 
+#### divider`
+
 Have fun and enjoy learning about the project                              
 
 This project is to explore a liked topic not to hate it.
+
+#### divider
 
 Make comprehensible and resonable arguments.                               
 
