@@ -25,8 +25,17 @@ So oxygen is not so much of a problem, I also dout that the world could even sup
 
 https://www.livescience.com/27692-deforestation.html
 
-In a healthy forest there are about 60 trees per acre. 18,000,000 x 60 = 1,080,000,000. So we loose 1,080,000,000 trees every year. If the U.N. estimate that there will be 11.5 billion people 
+In a healthy forest there are about 60 trees per acre. 18,000,000 x 60 = 1,080,000,000. So we loose 1,080,000,000 trees every year. If the U.N. estimate that there will be 11.5 billion people .
 
 www.sbcounty.gov/calmast/sbc/html/healthy_forest.asp
 
 2,969,765,300,000 - (2,500,000,000 / 2 (breathing rate)) (as I used 9 billion I will add 2.5) = 2,968,500,000,000
+
+There are that many 'useless' (in my point of view) trees left, lefts find out how long it takes for them to be eradicated.
+
+2,968,500,000,000 - 1,080,000,000X = 0 ; 2,968,500,000,000 = 1,080,000,000X ; 2,968,500,000,000 / 1,080,000,000 = X ; 2748.6 = X 
+
+All of these trees will be gone in 2,748 years or most likely half of that as our population will have higher demands, and all these trees are not beatifull healthy adult trees.
+
+### RESULTING in 1374 years of trees left, it is only 20 generations ahead! ###
+
