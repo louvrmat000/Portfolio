@@ -45,3 +45,5 @@ All of these trees will be gone in 2,748 years or most likely half of that as ou
 
 ### RESULTING in 1,374 years of trees left, it is only 20 generations ahead! ###
 
+
+![alt text](table_of_trifold.png)
