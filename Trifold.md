@@ -46,4 +46,4 @@ All of these "extra" trees will be gone in 2,748 years. However this doom will s
 ### RESULTING in 2,748 years of trees left, it is only 50 generations ahead! ###
 
 
-![alt text](table_of_trifold.png)
+![alt text](trifold_design.png)
