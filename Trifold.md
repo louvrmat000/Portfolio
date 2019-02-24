@@ -1,3 +1,9 @@
+Dimensions:
+
+36" x 48"
+
+according to: elmers.com/product/detail/902090
+
 Now as my number does not seem to significant, I will try to convert it into more people as I doubt many other species will grow.
 
 ### How many more humans?
@@ -25,7 +31,7 @@ So oxygen is not so much of a problem, I also dout that the world could even sup
 
 https://www.livescience.com/27692-deforestation.html
 
-In a healthy forest there are about 60 trees per acre. 18,000,000 x 60 = 1,080,000,000. So we loose 1,080,000,000 trees every year. If the U.N. estimate that there will be 11.5 billion people .
+In a healthy forest there are about 60 trees per acre.Since we loose 18 million acres per year: 18,000,000 x 60 = 1,080,000,000. So we loose 1,080,000,000 trees every year. If the U.N. estimate that there will be 11.5 billion people .
 
 www.sbcounty.gov/calmast/sbc/html/healthy_forest.asp
 
@@ -35,7 +41,7 @@ There are that many 'useless' (in my point of view) trees left, lefts find out h
 
 2,968,500,000,000 - 1,080,000,000X = 0 ; 2,968,500,000,000 = 1,080,000,000X ; 2,968,500,000,000 / 1,080,000,000 = X ; 2748.6 = X 
 
-All of these trees will be gone in 2,748 years or most likely half of that as our population will have higher demands, and all these trees are not beatifull healthy adult trees.
+All of these trees will be gone in 2,748 years or most likely half of that as our population will have higher wood demands, and all these trees are not beatifull healthy adult trees.
 
-### RESULTING in 1374 years of trees left, it is only 20 generations ahead! ###
+### RESULTING in 1,374 years of trees left, it is only 20 generations ahead! ###
 
